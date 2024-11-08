@@ -1,6 +1,6 @@
-$avatar-size: 180px;
+.team-members {
+  $image-size: 180px;
 
-.team {
   display: flex;
   flex-direction: column;
   list-style: none;
@@ -8,8 +8,8 @@ $avatar-size: 180px;
   gap: $spacing-unit * 2;
 
   img {
-    width: $avatar-size;
-    height: $avatar-size;
+    width: $image-size;
+    height: $image-size;
     border-radius: 50%;
   }
 
@@ -26,6 +26,6 @@ $avatar-size: 180px;
 
   dt {
     @include relative-font-size(1.5);
-    margin-bottom: $spacing-unit * 0.5;
+    font-weight: 500;
   }
 }

@@ -33,6 +33,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ConstWaveTech
 github_username: ConstantWave 
 
+collections:
+  - team_members
+
 # Build settings
 theme: minima
 plugins:

@@ -4,35 +4,19 @@ layout: default
 
 <h1>Our Team</h1>
 
-<ul class="team">
+<ul class="team-members">
+  {% for team_member in site.team_members %}
   <li>
-    <img src="/images/tulo.jpg" alt="Tulo">
+    <img src="{{ team_member.image }}" alt="{{ team_member.name }}">
     <dl>
-      <dt>Tulo</dt>
+      <dt>{{ team_member.name }}</dt>
       <dd>
         <p>
-          Tulo is a passionate software developer with over 20 years of professional experience. His journey began
-          early, coding on 8-bit machines in assembly, sparking a lifelong love for technology. With full-stack
-          expertise across client and server projects, including 2D and 3D development, Tulo combines skill with a great
-          sense of humor, making him a valued member of the Constant Wave Technologies team.
+          {{ team_member.content }}
         </p>
-        <strong>Email:</strong> <a href="mailto:tulo@constantwave.tech">tulo@constantwave.tech</a>
+        <strong>Email:</strong> <a href="mailto:{{ team_member.email }}">{{ team_member.email }}</a>
       </dd>
     </dl>
   </li>
-  <li>
-    <img src="/images/enrique.jpg" alt="Enrique de los Ríos Vidal">
-    <dl>
-      <dt>Enrique</dt>
-      <dd>
-        <p>
-          Enrique is a seasoned professional with 30 years of experience in the IT industry, specializing in data and
-          AI. Now, he's bringing his wealth of knowledge and expertise to the exciting world of video games. With a
-          passion for innovation and a knack for turning complex problems into fun and engaging solutions, Enrique is
-          ready to revolutionize the gaming landscape. Get ready for some thrilling adventures!
-        </p>
-        <strong>Email:</strong> <a href="mailto:enrique@constantwave.tech">enrique@constantwave.tech</a>
-      </dd>
-    </dl>
-  </li>
+  {% endfor %}
 </ul>
