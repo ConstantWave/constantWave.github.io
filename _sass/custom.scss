@@ -20,6 +20,7 @@ $avatar-size: 180px;
 
     @include media-query($on-palm) {
       flex-direction: column;
+      gap: $spacing-unit;
     }
   }
 
