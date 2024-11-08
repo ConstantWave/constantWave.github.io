@@ -1,0 +1,30 @@
+$avatar-size: 180px;
+
+.team {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin: 0;
+  gap: $spacing-unit * 2;
+
+  img {
+    width: $avatar-size;
+    height: $avatar-size;
+    border-radius: 50%;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    gap: $spacing-unit * 2;
+
+    @include media-query($on-palm) {
+      flex-direction: column;
+    }
+  }
+
+  dt {
+    @include relative-font-size(1.5);
+    margin-bottom: $spacing-unit * 0.5;
+  }
+}
