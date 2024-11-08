@@ -4,29 +4,15 @@ This is the repository for the Constant Wave web page. The site is built using J
 
 ## Installation
 
-To set up the project locally, follow these steps:
+Dependencies: 
 
-1. **Install Ruby**: Jekyll requires Ruby to be installed on your system. You can download and install Ruby from [ruby-lang.org](https://www.ruby-lang.org/en/downloads/).
+- Ruby **3.x** (take into account that Ruby installed by default in OSX systems can be outdated). For homebrew installation, run `brew install ruby` and dont't forget `export PATH="/opt/homebrew/opt/ruby/bin:$PATH"` or `echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc` to add to bash.
 
-2. **Install Jekyll and Bundler**: Open your terminal and run the following command to install Jekyll and Bundler gems:
-   ```sh
-   gem install jekyll bundler
-   ```
+To set up the project locally:
 
-3. **Clone the Repository**: Clone this repository to your local machine using:
-   ```sh
-   git clone https://github.com/your-username/constant-wave.git
-   ```
-
-4. **Navigate to the Project Directory**: Change your directory to the project folder:
-   ```sh
-   cd constant-wave
-   ```
-
-5. **Install Dependencies**: Run the following command to install the required dependencies:
-   ```sh
-   bundle install
-   ```
+```sh
+bundle install
+```
 
 ## Running the Site Locally
 
@@ -35,5 +21,3 @@ To run the site locally, use the following command:
 ```sh
 bundle exec jekyll serve
 ```
-
-
