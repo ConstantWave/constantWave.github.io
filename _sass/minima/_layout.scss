@@ -30,7 +30,7 @@
       display: block;
     }
   }
-    
+
   ul {
     display: flex;
     gap: $spacing-unit * 2;
@@ -64,49 +64,42 @@
   }
 }
 
-footer {
-  background-color: #000000;
-  padding: 40px 0; /* Increased padding to add more space to the bottom of the page */
+.site-footer {
+  background-color: $footer-background-color;
   text-align: center;
-}
-.footer-content {
+  padding: $spacing-unit * 6 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0 20px;
-}
-.footer-logo img {
-  height: 50px;
-}
-.footer-bottom p {
-  margin: 0;
-  color: #666;
-  text-align: center;
-}
-.social-links {
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  margin-top: 30px;
-}
-.footer-links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 20px;
-  color: #666;
-}
-.footer-links a {
-  color: #666;
-  text-decoration: none;
-  margin: 0 10px;
+
+  .footer-logo {
+    margin-bottom: $spacing-unit;
+  }
+
+  .social-links {
+    display: flex;
+    gap: $spacing-unit;
+    margin-bottom: $spacing-unit;
+  }
+
+  .footer-links,
+  p {
+    color: #666;
+  }
+
+  .footer-links {
+    a {
+      color: #666;
+      padding: 0 $spacing-unit * 0.5;
+    }
+  }
 }
 
 /**
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: $spacing-unit * 2 0 $spacing-unit * 4;
   flex: 1;
 }
 
