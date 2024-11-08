@@ -27,5 +27,55 @@
   dt {
     @include relative-font-size(1.5);
     font-weight: 500;
+    margin-bottom: $spacing-unit * 0.5;
+  }
+}
+
+.games {
+  $image-size: 320px;
+
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin: 0;
+  gap: $spacing-unit * 2;
+
+  > li {
+    display: flex;
+    gap: $spacing-unit * 2;
+
+    @include media-query($on-laptop) {
+      flex-direction: column;
+      gap: $spacing-unit;
+    }
+
+    > img {
+      width: $image-size;
+      height: $image-size;
+      border-radius: $spacing-unit * 0.5;
+
+      @include media-query($on-laptop) {
+        width: $image-size * 0.75;
+        height: auto;
+      }
+    }
+  }
+
+  dt {
+    @include relative-font-size(1.5);
+    font-weight: 500;
+    margin-bottom: $spacing-unit * 0.5;
+  }
+
+  .stores {
+    display: flex;
+    gap: $spacing-unit;
+    list-style: none;
+    margin: 0 0 $spacing-unit;
+
+    img {
+      width: 140px;
+      height: auto;
+    }
   }
 }

@@ -19,5 +19,5 @@ bundle install
 To run the site locally, use the following command:
 
 ```sh
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```

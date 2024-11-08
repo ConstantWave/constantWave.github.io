@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<h1>Our Games</h1>
+
+<ul class="games">
+  {% for game in site.games %}
+  <li>
+    <img src="{{ game.image }}" alt="{{ game.name }}">
+    <dl>
+      <dt>{{ game.name }}</dt>
+      <dd>
+        {{ game.content }}
+        <ul class="stores">
+          <li>
+            <a href="{{ game.appstore }}">
+              <img src="images/appstore.svg" alt="Download {{ game.name }} on the App Store">
+            </a>
+          </li>
+          <li>
+            <a href="{{ game.googleplay }}">
+              <img src="images/googleplay.svg" alt="Download {{ game.name }} on Google Play">
+            </a>
+          </li>
+        </ul>
+        <strong>Support Email:</strong> <a href="mailto:{{ game.email }}">{{ game.email }}</a>
+      </dd>
+    </dl>
+  </li>
+  {% endfor %}
+</ul>
