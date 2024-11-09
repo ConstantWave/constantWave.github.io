@@ -53,10 +53,13 @@
       width: $image-size;
       height: $image-size;
       border-radius: $spacing-unit * 0.5;
+      object-fit: cover;
 
       @include media-query($on-laptop) {
-        width: $image-size * 0.75;
-        height: auto;
+        width: 100%;
+        height: inherit;
+        min-height: 180px;
+        aspect-ratio: 3.5;
       }
     }
   }
