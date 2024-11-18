@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Contact Us"
+layout: page
+title: "Ponte en contacto con nosotros"
 permalink: /contact/
 lang: es
 page_id: contact

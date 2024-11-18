@@ -5,343 +5,345 @@ permalink: /terms-and-conditions/
 lang: es
 page_id: terms-and-conditions
 ---
+**Fecha de Vigencia:** 8 de noviembre de 2024
+
+## Tabla de Contenidos
+1. [Introducción](#1-introducción)
+2. [Aceptación de los Términos](#2-aceptación-de-los-términos)
+   - [2.1 Aceptación de los Términos](#21-aceptación-de-los-términos)
+   - [2.2 Aceptación Requerida](#22-aceptación-requerida)
+   - [2.3 Opciones Alternativas](#23-opciones-alternativas)
+   - [2.4 Actualizaciones y Cambios](#24-actualizaciones-y-cambios)
+3. [Elegibilidad](#3-elegibilidad)
+   - [3.1 Requisitos de Edad](#31-requisitos-de-edad)
+   - [3.2 Registro de Cuenta](#32-registro-de-cuenta)
+4. [Licencia y Derechos de Uso](#4-licencia-y-derechos-de-uso)
+   - [4.1 Licencia Limitada](#41-licencia-limitada)
+   - [4.2 Restricciones](#42-restricciones)
+5. [Artículos y Moneda Virtual](#5-artículos-y-moneda-virtual)
+   - [5.1 Contenido Virtual](#51-contenido-virtual)
+   - [5.2 Compras](#52-compras)
+6. [Contenido del Usuario](#6-contenido-del-usuario)
+   - [6.1 Propiedad y Licencia](#61-propiedad-y-licencia)
+   - [6.2 Reglas de Contenido](#62-reglas-de-contenido)
+7. [Conducta y Juego Justo](#7-conducta-y-juego-justo)
+   - [7.1 Actividades Prohibidas](#71-actividades-prohibidas)
+   - [7.2 Sanciones](#72-sanciones)
+8. [Propiedad Intelectual](#8-propiedad-intelectual)
+   - [8.1 Propiedad](#81-propiedad)
+   - [8.2 Cumplimiento de la DMCA](#82-cumplimiento-de-la-dmca)
+9. [Privacidad y Protección de Datos](#9-privacidad-y-protección-de-datos)
+   - [9.1 Recopilación y Uso de Datos](#91-recopilación-y-uso-de-datos)
+   - [9.2 Cumplimiento con el GDPR y Otras Leyes Aplicables](#92-cumplimiento-con-el-gdpr-y-otras-leyes-aplicables)
+   - [9.3 Derechos del Usuario con Respecto a los Datos Personales](#93-derechos-del-usuario-con-respecto-a-los-datos-personales)
+   - [9.4 Información de Contacto](#94-información-de-contacto)
+10. [Descargos de Responsabilidad y Limitaciones](#10-descargos-de-responsabilidad-y-limitaciones)
+    - [10.1 Descargo de Garantía](#101-descargo-de-garantía)
+    - [10.2 Limitación de Responsabilidad](#102-limitación-de-responsabilidad)
+11. [Terminación](#11-terminación)
+    - [11.1 Terminación por los Usuarios](#111-terminación-por-los-usuarios)
+    - [11.2 Terminación por la Empresa](#112-terminación-por-la-empresa)
+12. [Cambios en los Términos](#12-cambios-en-los-términos)
+    - [12.1 Derecho a Modificar los Términos](#121-derecho-a-modificar-los-términos)
+    - [12.2 Notificación de Cambios](#122-notificación-de-cambios)
+    - [12.3 Aceptación de los Cambios](#123-aceptación-de-los-cambios)
+    - [12.4 Consentimiento Explícito para Cambios Materiales](#124-consentimiento-explícito-para-cambios-materiales)
+    - [12.5 Revisión de los Términos](#125-revisión-de-los-términos)
+    - [12.6 Fecha de Vigencia de los Cambios](#126-fecha-de-vigencia-de-los-cambios)
+    - [12.7 Naturaleza Vinculante de los Cambios](#127-naturaleza-vinculante-de-los-cambios)
+    - [12.8 Información de Contacto para Cambios](#128-información-de-contacto-para-cambios)
+13. [Ley Aplicable y Jurisdicción](#13-ley-aplicable-y-jurisdicción)
+    - [13.1 Ley Aplicable](#131-ley-aplicable)
+    - [13.2 Jurisdicción](#132-jurisdicción)
+    - [13.3 Derechos de Protección al Consumidor para Usuarios de la UE](#133-derechos-de-protección-al-consumidor-para-usuarios-de-la-ue)
+    - [13.4 Cumplimiento Legal](#134-cumplimiento-legal)
+    - [13.5 Resolución de Disputas](#135-resolución-de-disputas)
+    - [13.6 Consideraciones Internacionales](#136-consideraciones-internacionales)
+    - [13.7 Actualizaciones a la Ley Aplicable y Jurisdicción](#137-actualizaciones-a-la-ley-aplicable-y-jurisdicción)
+14. [Miscelánea](#14-miscelánea)
+    - [14.1 Divisibilidad](#141-divisibilidad)
+    - [14.2 Cesión](#142-cesión)
+    - [14.3 Fuerza Mayor](#143-fuerza-mayor)
+15. [Información de Contacto](#15-información-de-contacto)
+16. [Idioma](#16-idioma)
+
+## 1. Introducción
+Estos Términos y Condiciones ("Términos") constituyen un acuerdo legalmente vinculante entre usted y Constant Wave Technologies S.L. ("nosotros", "nos", "nuestro" o "la Empresa"), que rige su acceso y uso de nuestros juegos, aplicaciones, sitios web y servicios relacionados (colectivamente, los "Servicios"). Constant Wave Technologies S.L. es una empresa registrada en España con CIF: ESB19408350.
+
+## 2. Aceptación de los Términos
+
+### 2.1 Aceptación de los Términos
+Al elegir descargar, instalar, acceder o utilizar cualquiera de nuestros Servicios, usted reconoce explícitamente que ha leído detenidamente, comprendido completamente y acepta inequívocamente estar sujeto a las estipulaciones y condiciones descritas en estos Términos. Estos Términos forman un acuerdo completo y legalmente vinculante entre usted, el usuario, y Constant Wave Technologies S.L., el proveedor de estos Servicios. Es imperativo que comprenda el alcance total de este acuerdo, ya que rige su interacción con nuestros Servicios.
+
+### 2.2 Aceptación Requerida
+El privilegio de acceder y utilizar nuestros Servicios depende inequívocamente de su aceptación explícita y estricta adhesión a las estipulaciones completas descritas en estos Términos. Es de suma importancia que realice una revisión exhaustiva y meticulosa de estos Términos en su totalidad antes de cualquier compromiso con nuestros Servicios. Estos Términos contienen información crítica y sustancial que delimita sus derechos legales, los recursos disponibles para usted y las obligaciones que debe cumplir. El incumplimiento de cualquier aspecto de estos Términos puede llevar a consecuencias graves, incluyendo, pero no limitándose a, la suspensión o terminación completa de su acceso a nuestros Servicios.
+
+### 2.3 Opciones Alternativas
+Si se encuentra en una posición de desacuerdo con cualquier segmento o disposición de estos Términos, reconocemos y respetamos plenamente su decisión. En tales circunstancias, le solicitamos cortés y respetuosamente que se abstenga de acceder o utilizar cualquiera de nuestros Servicios. Si tiene alguna pregunta, necesita más aclaraciones o requiere información adicional sobre estos Términos, le animamos encarecidamente a que se comunique con nosotros en [legal@constantwave.tech](mailto:legal@constantwave.tech) antes de tomar cualquier decisión sobre el uso de nuestros Servicios. Nuestro equipo dedicado está disponible para abordar cualquier consulta o preocupación que pueda tener, asegurando que esté completamente informado y cómodo con los Términos antes de proceder.
+
+### 2.4 Actualizaciones y Cambios
+Nos reservamos el derecho, a nuestra entera discreción, de actualizar, revisar y enmendar periódicamente estos Términos para reflejar con precisión una variedad de factores. Estos factores pueden incluir, pero no se limitan a, modificaciones o mejoras en el alcance y la naturaleza de nuestros Servicios, la necesidad de cumplir con requisitos legales o regulatorios en evolución, la implementación de mejoras de seguridad diseñadas para proteger los datos y la privacidad del usuario, y la consideración de comentarios de los usuarios junto con las necesidades cambiantes de nuestra comunidad. Estas actualizaciones son indispensables para mantener la relevancia, precisión y efectividad de nuestros Términos. Nos comprometemos a garantizar que cualquier cambio se comunique de manera clara y efectiva a nuestros usuarios, manteniéndolos informados y actualizados con los últimos términos que rigen su uso de nuestros Servicios.
+
+## 3. Elegibilidad
 
-**Effective Date:** November 8, 2024
-
-## Table of Contents
-1. [Introduction](#1-introduction)
-2. [Acceptance of Terms](#2-acceptance-of-terms)
-   - [2.1 Agreement to Terms](#21-agreement-to-terms)
-   - [2.2 Acceptance Required](#22-acceptance-required)
-   - [2.3 Alternative Options](#23-alternative-options)
-   - [2.4 Updates and Changes](#24-updates-and-changes)
-3. [Eligibility](#3-eligibility)
-   - [3.1 Age Requirements](#31-age-requirements)
-   - [3.2 Account Registration](#32-account-registration)
-4. [License and Usage Rights](#4-license-and-usage-rights)
-   - [4.1 Limited License](#41-limited-license)
-   - [4.2 Restrictions](#42-restrictions)
-5. [Virtual Items and Currency](#5-virtual-items-and-currency)
-   - [5.1 Virtual Content](#51-virtual-content)
-   - [5.2 Purchases](#52-purchases)
-6. [User Content](#6-user-content)
-   - [6.1 Ownership and License](#61-ownership-and-license)
-   - [6.2 Content Rules](#62-content-rules)
-7. [Conduct and Fair Play](#7-conduct-and-fair-play)
-   - [7.1 Prohibited Activities](#71-prohibited-activities)
-   - [7.2 Penalties](#72-penalties)
-8. [Intellectual Property](#8-intellectual-property)
-   - [8.1 Ownership](#81-ownership)
-   - [8.2 DMCA Compliance](#82-dmca-compliance)
-9. [Privacy and Data Protection](#9-privacy-and-data-protection)
-   - [9.1 Data Collection and Use](#91-data-collection-and-use)
-   - [9.2 Compliance with GDPR and Other Applicable Laws](#92-compliance-with-gdpr-and-other-applicable-laws)
-   - [9.3 User Rights Regarding Personal Data](#93-user-rights-regarding-personal-data)
-   - [9.4 Contact Information](#94-contact-information)
-10. [Disclaimers and Limitations](#10-disclaimers-and-limitations)
-    - [10.1 Warranty Disclaimer](#101-warranty-disclaimer)
-    - [10.2 Limitation of Liability](#102-limitation-of-liability)
-11. [Termination](#11-termination)
-    - [11.1 Termination by Users](#111-termination-by-users)
-    - [11.2 Termination by Company](#112-termination-by-company)
-12. [Changes to Terms](#12-changes-to-terms)
-    - [12.1 Right to Modify Terms](#121-right-to-modify-terms)
-    - [12.2 Notification of Changes](#122-notification-of-changes)
-    - [12.3 Acceptance of Changes](#123-acceptance-of-changes)
-    - [12.4 Explicit Consent for Material Changes](#124-explicit-consent-for-material-changes)
-    - [12.5 Review of Terms](#125-review-of-terms)
-    - [12.6 Effective Date of Changes](#126-effective-date-of-changes)
-    - [12.7 Binding Nature of Changes](#127-binding-nature-of-changes)
-    - [12.8 Contact Information for Changes](#128-contact-information-for-changes)
-13. [Governing Law and Jurisdiction](#13-governing-law-and-jurisdiction)
-    - [13.1 Governing Law](#131-governing-law)
-    - [13.2 Jurisdiction](#132-jurisdiction)
-    - [13.3 Consumer Protection Rights for EU Users](#133-consumer-protection-rights-for-eu-users)
-    - [13.4 Legal Compliance](#134-legal-compliance)
-    - [13.5 Dispute Resolution](#135-dispute-resolution)
-    - [13.6 International Considerations](#136-international-considerations)
-    - [13.7 Updates to Governing Law and Jurisdiction](#137-updates-to-governing-law-and-jurisdiction)
-14. [Miscellaneous](#14-miscellaneous)
-    - [14.1 Severability](#141-severability)
-    - [14.2 Assignment](#142-assignment)
-    - [14.3 Force Majeure](#143-force-majeure)
-15. [Contact Information](#15-contact-information)
-16. [Language](#16-language)
-
-## 1. Introduction
-These Terms and Conditions ("Terms") constitute a legally binding agreement between you and Constant Wave Technologies S.L. ("we," "us," "our," or "Company"), governing your access to and use of our games, applications, websites, and related services (collectively, the "Services"). Constant Wave Technologies S.L. is a company registered in Spain with CIF: ESB19408350.
-
-## 2. Acceptance of Terms
-
-### 2.1 Agreement to Terms
-By choosing to download, install, access, or utilize any of our Services, you are explicitly acknowledging that you have thoroughly read, fully understood, and unequivocally agree to be bound by the stipulations and conditions outlined in these Terms. These Terms form a comprehensive and legally binding agreement between you, the user, and Constant Wave Technologies S.L., the provider of these Services. It is imperative that you comprehend the full scope of this agreement, as it governs your interaction with our Services.
-
-### 2.2 Acceptance Required
-The privilege to access and utilize our Services is unequivocally dependent upon your explicit acceptance of and strict adherence to the comprehensive stipulations outlined in these Terms. It is of paramount importance that you engage in a thorough and meticulous review of these Terms in their entirety prior to any engagement with our Services. These Terms contain critical and substantial information that delineates your legal rights, the remedies available to you, and the obligations you are required to fulfill. A failure to comply with any aspect of these Terms may lead to serious consequences, including but not limited to the suspension or complete termination of your access to our Services.
-
-### 2.3 Alternative Options
-Should you find yourself in a position of disagreement with any segment or provision of these Terms, we fully acknowledge and respect your decision. In such circumstances, we courteously and respectfully request that you refrain from accessing or utilizing any of our Services. If you have any questions, require further clarification, or need additional information regarding these Terms, we strongly encourage you to reach out to us at [legal@constantwave.tech](mailto:legal@constantwave.tech) before making any decisions about using our Services. Our dedicated team is readily available to address any inquiries or concerns you may have, ensuring that you are fully informed and comfortable with the Terms before proceeding.
+### 3.1 Requisitos de Edad
+- Nuestros Servicios están diseñados para usuarios de todas las edades. Sin embargo, si tiene menos de 13 años, solo puede usar nuestros Servicios con el consentimiento parental verificable. Esto significa que si es menor de 13 años, no se le permite acceder o usar nuestros Servicios a menos que su padre o tutor legal haya proporcionado un consentimiento explícito y verificable para que lo haga. El consentimiento parental verificable puede incluir métodos como proporcionar un formulario de consentimiento firmado, usar una tarjeta de crédito para verificación u otros métodos legalmente aceptables para garantizar que el consentimiento sea genuino.
 
-### 2.4 Updates and Changes
-We retain the right, at our sole discretion, to periodically update, revise, and amend these Terms to accurately reflect a variety of factors. These factors may include, but are not limited to, modifications or enhancements in the scope and nature of our Services, the necessity to comply with evolving legal or regulatory requirements, the implementation of security improvements designed to safeguard user data and privacy, and the consideration of user feedback along with the evolving needs of our community. These updates are indispensable to maintaining the relevance, accuracy, and effectiveness of our Terms. We are committed to ensuring that any changes are communicated clearly and effectively to our users, thereby keeping you informed and up-to-date with the latest terms governing your use of our Services.
+- Para usuarios entre 13 y 16 años en la Unión Europea, se requiere el consentimiento parental para usar nuestros Servicios. Esto significa que si es residente de la Unión Europea y tiene entre 13 y 16 años, debe obtener el consentimiento de sus padres o tutores antes de poder acceder o usar nuestros Servicios. El requisito de edad para el consentimiento parental puede variar ligeramente según las regulaciones específicas del estado miembro de la UE en el que resida, pero no será inferior a 13 años.
 
-## 3. Eligibility
+- No recopilamos información personal de niños menores de 13 años. Si descubrimos que hemos recopilado inadvertidamente información personal de un niño menor de 13 años, tomaremos medidas inmediatas para eliminar dicha información de nuestros registros.
 
-### 3.1 Age Requirements
-- Our Services are designed for users of all ages. However, if you are under 13 years old, you may use our Services only with verifiable parental consent. This means that if you are younger than 13 years old, you are not allowed to access or use our Services unless your parent or legal guardian has provided explicit and verifiable consent for you to do so. Verifiable parental consent may include methods such as providing a signed consent form, using a credit card for verification, or other legally acceptable methods to ensure that the consent is genuine.
+- Si tiene menos de 18 años, recomendamos que tenga el consentimiento de sus padres o tutores legales para usar nuestros Servicios. Esto asegura que su uso de nuestros Servicios esté supervisado y que su padre o tutor esté al tanto y de acuerdo con su participación en nuestra plataforma.
 
-- For users between 13 and 16 years old in the European Union, parental consent is required to use our Services. This means that if you are a resident of the European Union and are between the ages of 13 and 16, you must obtain parental or guardian consent before you can access or use our Services. The age requirement for parental consent may vary slightly depending on the specific regulations of the EU member state in which you reside, but it will not be lower than 13 years old.
+### 3.2 Registro de Cuenta
+Al crear una cuenta con Constant Wave Technologies S.L., usted acepta cumplir con las siguientes responsabilidades y obligaciones:
 
-- We do not collect personal information from children under 13 years of age. If we discover that we have inadvertently collected personal information from a child under 13, we will take immediate steps to delete such information from our records.
+- **Proporcionar Información Precisa y Completa:** Debe asegurarse de que toda la información que proporcione durante el proceso de creación de la cuenta sea veraz, precisa y completa. Esto incluye, pero no se limita a, su nombre, dirección de correo electrónico, fecha de nacimiento y cualquier otro detalle requerido. Proporcionar información falsa o engañosa está estrictamente prohibido y puede resultar en la suspensión o terminación de su cuenta.
 
-- If you are under 18 years old, we recommend that you have parental or legal guardian consent to use our Services. This ensures that your use of our Services is supervised and that your parent or guardian is aware of and agrees to your engagement with our platform.
+- **Mantener y Actualizar su Información:** Es su responsabilidad mantener actualizada la información de su cuenta. Esto significa actualizar de inmediato cualquier cambio en sus datos personales, como una nueva dirección de correo electrónico o un cambio en su información de contacto. Mantener su información actualizada asegura que podamos comunicarnos con usted de manera efectiva y brindarle el mejor servicio posible.
 
-### 3.2 Account Registration
-When creating an account with Constant Wave Technologies S.L., you agree to adhere to the following responsibilities and obligations:
+- **Mantener Seguras sus Credenciales de Cuenta:** Usted es responsable de mantener la confidencialidad y seguridad de sus credenciales de cuenta, incluyendo su nombre de usuario y contraseña. Debe tomar todas las precauciones necesarias para evitar el acceso no autorizado a su cuenta. Esto incluye usar una contraseña fuerte y única, no compartir su contraseña con otros y cerrar sesión en su cuenta cuando use un dispositivo compartido o público.
 
-- **Provide Accurate and Complete Information:** You must ensure that all the information you provide during the account creation process is truthful, accurate, and complete. This includes, but is not limited to, your name, email address, date of birth, and any other required details. Providing false or misleading information is strictly prohibited and may result in the suspension or termination of your account.
+- **No Compartir su Cuenta con Otros:** Su cuenta es personal y no está permitido compartirla con ninguna otra persona. Permitir que otros accedan o usen su cuenta es una violación de estos Términos y puede resultar en la suspensión o terminación de su cuenta. Cada usuario debe crear su propia cuenta para acceder y usar nuestros Servicios.
 
-- **Maintain and Update Your Information:** It is your responsibility to keep your account information up to date. This means promptly updating any changes to your personal details, such as a new email address or a change in your contact information. Keeping your information current ensures that we can communicate with you effectively and provide you with the best possible service.
+- **Ser Responsable de Toda la Actividad Bajo su Cuenta:** Usted es completamente responsable de todas las acciones y actividades que ocurran bajo su cuenta. Esto incluye cualquier compra, comunicación o interacción con nuestros Servicios. Si se da cuenta de cualquier uso no autorizado de su cuenta o cualquier otra violación de seguridad, debe notificarnos de inmediato en [legal@constantwave.tech](mailto:legal@constantwave.tech). No somos responsables de ninguna pérdida o daño que surja de su incumplimiento de estas responsabilidades.
 
-- **Keep Your Account Credentials Secure:** You are responsible for maintaining the confidentiality and security of your account credentials, including your username and password. You must take all necessary precautions to prevent unauthorized access to your account. This includes using a strong and unique password, not sharing your password with others, and logging out of your account when using a shared or public device.
+## 4. Licencia y Derechos de Uso
 
-- **Not Share Your Account with Others:** Your account is personal to you, and you are not permitted to share it with any other individual. Allowing others to access or use your account is a violation of these Terms and may result in the suspension or termination of your account. Each user must create their own account to access and use our Services.
+### 4.1 Licencia Limitada
+Le otorgamos una licencia limitada, no exclusiva, no transferible y revocable para interactuar con nuestros Servicios bajo las siguientes condiciones:
 
-- **Be Responsible for All Activity Under Your Account:** You are fully responsible for all actions and activities that occur under your account. This includes any purchases, communications, or interactions with our Services. If you become aware of any unauthorized use of your account or any other breach of security, you must notify us immediately at [legal@constantwave.tech](mailto:legal@constantwave.tech). We are not liable for any loss or damage arising from your failure to comply with these responsibilities.
+- **Descargar e Instalar Nuestros Juegos:** Se le permite descargar e instalar nuestros juegos en dispositivos autorizados para dicho uso. Esto significa que puede instalar nuestros juegos en sus dispositivos personales, como su teléfono inteligente, tableta o computadora, siempre que estos dispositivos sean compatibles con nuestro software y cumplan con los requisitos del sistema especificados por nosotros.
 
-## 4. License and Usage Rights
+- **Usar Nuestros Servicios para Fines Personales y No Comerciales:** Se le permite usar nuestros Servicios únicamente para su disfrute y entretenimiento personal. Esta licencia no se extiende a ninguna actividad comercial, lo que significa que no puede usar nuestros Servicios para generar ingresos, promover un negocio o participar en cualquier forma de empresa comercial. Su uso de nuestros Servicios debe ser para su propio uso individual y no para el beneficio de terceros.
 
-### 4.1 Limited License
-We hereby grant you a limited, non-exclusive, non-transferable, and revocable license to engage with our Services under the following conditions:
+- **Crear y Compartir Contenido de Usuario Dentro de Nuestras Plataformas:** Tiene derecho a crear contenido generado por el usuario, como modificaciones en el juego, personalizaciones u otras obras creativas, y compartir este contenido dentro de nuestras plataformas. Esto incluye publicar su contenido en nuestros foros, compartirlo con otros usuarios en el juego o usar cualquier otra función de compartir proporcionada por nuestros Servicios. Sin embargo, esta licencia está sujeta a nuestras pautas y políticas de contenido, y nos reservamos el derecho de eliminar o modificar cualquier contenido de usuario que viole estas pautas o se considere inapropiado.
 
-- **Download and Install Our Games:** You are permitted to download and install our games on devices that are authorized for such use. This means that you can install our games on your personal devices, such as your smartphone, tablet, or computer, provided that these devices are compatible with our software and meet any system requirements specified by us.
+### 4.2 Restricciones
+Se le prohíbe estrictamente participar en las siguientes actividades:
 
-- **Use Our Services for Personal, Non-Commercial Purposes:** You are allowed to use our Services solely for your personal enjoyment and entertainment. This license does not extend to any commercial activities, meaning you cannot use our Services to generate revenue, promote a business, or engage in any form of commercial enterprise. Your use of our Services should be for your own individual use and not for the benefit of any third party.
+- **Copiar, Modificar o Distribuir Nuestros Juegos:** No se le permite hacer copias de nuestros juegos, alterar cualquier parte de ellos o distribuirlos de cualquier forma sin nuestro permiso explícito. Esto incluye, pero no se limita a, duplicar archivos de juegos, cambiar el código del juego o compartir versiones modificadas de nuestros juegos.
 
-- **Create and Share User Content Within Our Platforms:** You have the right to create user-generated content, such as in-game modifications, customizations, or other creative works, and share this content within our platforms. This includes posting your content on our forums, sharing it with other users in-game, or using any other sharing features provided by our Services. However, this license is subject to our content guidelines and policies, and we reserve the right to remove or modify any user content that violates these guidelines or is otherwise deemed inappropriate.
+- **Ingeniería Inversa o Descompilación de Nuestro Software:** No debe intentar realizar ingeniería inversa, descompilar, desensamblar o intentar derivar el código fuente de nuestro software de ninguna manera. Esto significa que no puede intentar comprender la estructura del código subyacente o los algoritmos utilizados en nuestros juegos por ningún medio.
 
-### 4.2 Restrictions
-You are strictly prohibited from engaging in the following activities:
+- **Crear Obras Derivadas:** No se le permite crear ninguna obra derivada basada en nuestros juegos. Esto incluye desarrollar nuevos juegos, aplicaciones o cualquier otro contenido derivado o inspirado en nuestros juegos originales sin nuestra autorización.
 
-- **Copying, Modifying, or Distributing Our Games:** You are not allowed to make copies of our games, alter any part of them, or distribute them in any form without our explicit permission. This includes but is not limited to duplicating game files, changing game code, or sharing modified versions of our games.
+- **Eliminar Avisos de Derechos de Autor o Etiquetas:** No debe eliminar, alterar u ocultar ningún aviso de derechos de autor, marcas comerciales u otras etiquetas de propiedad incluidas en nuestros juegos. Estos avisos están ahí para proteger nuestros derechos de propiedad intelectual y deben permanecer intactos.
 
-- **Reverse Engineering or Decompiling Our Software:** You must not attempt to reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of our software. This means you cannot try to understand the underlying code structure or algorithms used in our games through any means.
+- **Usar Nuestros Servicios para Fines Comerciales Sin Autorización:** Se le prohíbe usar nuestros Servicios para cualquier propósito comercial a menos que haya obtenido autorización explícita de nosotros. Esto incluye vender, alquilar o arrendar acceso a nuestros juegos, o usar nuestros juegos para promover o publicitar otros productos o servicios.
 
-- **Creating Derivative Works:** You are not permitted to create any derivative works based on our games. This includes developing new games, applications, or any other content that is derived from or inspired by our original games without our authorization.
+- **Explotar Errores o Fallos:** No debe explotar ningún error, fallo o características no intencionadas en nuestros juegos para obtener una ventaja injusta o para interrumpir el funcionamiento normal del juego. Si descubre algún problema de este tipo, debe informarnos de inmediato.
 
-- **Removing Copyright Notices or Labels:** You must not remove, alter, or obscure any copyright notices, trademarks, or other proprietary labels that are included in our games. These notices are there to protect our intellectual property rights and must remain intact.
+- **Usar Software de Terceros No Autorizado o Trampas:** No se le permite usar ningún software de terceros no autorizado, trampas, hacks u otras herramientas que modifiquen o interfieran con el funcionamiento normal de nuestros juegos. Esto incluye, pero no se limita a, aimbots, wallhacks, speed hacks o cualquier otro software que proporcione una ventaja injusta o altere la experiencia del juego de alguna manera.
 
-- **Using Our Services for Commercial Purposes Without Authorization:** You are prohibited from using our Services for any commercial purposes unless you have obtained explicit authorization from us. This includes selling, renting, or leasing access to our games, or using our games to promote or advertise other products or services.
+## 5. Artículos y Moneda Virtual
 
-- **Exploiting Bugs or Glitches:** You must not exploit any bugs, glitches, or unintended features in our games to gain an unfair advantage or to disrupt the normal functioning of the game. If you discover any such issues, you should report them to us immediately.
+### 5.1 Contenido Virtual
+- Los artículos virtuales y la moneda virtual que adquiera a través de nuestros Servicios se le proporcionan bajo una licencia limitada. Esto significa que se le otorga el derecho de usar estos artículos y moneda virtual dentro del alcance de nuestros Servicios, pero no los posee. Están licenciados para usted, no vendidos, y siguen siendo propiedad de Constant Wave Technologies.
+- Estos artículos y moneda virtual no tienen ningún valor en el mundo real. No pueden ser intercambiados por dinero real, bienes u otros artículos de valor monetario de nosotros o de cualquier otra parte. Usted reconoce que no tiene derechos de propiedad ni interés de propiedad en ningún artículo o moneda virtual.
+- Los artículos y la moneda virtual no son transferibles. No se le permite vender, intercambiar, regalar o transferirlos a ninguna otra persona o cuenta, ya sea dentro de nuestros Servicios o fuera de ellos. Además, los artículos y la moneda virtual no son reembolsables, lo que significa que una vez adquiridos, no puede devolverlos para obtener un reembolso o intercambio.
+- Nos reservamos el derecho de modificar, gestionar, controlar o eliminar artículos y moneda virtual a nuestra entera discreción. Esto significa que podemos realizar cambios en los artículos y la moneda virtual, incluyendo alterar sus características, funcionalidad o disponibilidad, o eliminarlos completamente de nuestros Servicios, en cualquier momento y sin previo aviso.
+### 5.2 Compras
+- **Todas las compras son finales:** Una vez que realiza una compra, se considera final y no reembolsable. No ofrecemos reembolsos ni cambios por ningún artículo virtual o moneda comprada a través de nuestros Servicios.
+- **Precios y disponibilidad sujetos a cambios:** Los precios y la disponibilidad de los artículos virtuales y la moneda pueden cambiar en cualquier momento sin previo aviso. Nos reservamos el derecho de modificar, descontinuar o eliminar cualquier artículo virtual o moneda de nuestros Servicios a nuestra discreción.
+- **Procesamiento de pagos a través de terceros autorizados:** Todos los pagos por artículos virtuales y moneda se procesan a través de procesadores de pago de terceros autorizados. Al realizar una compra, usted acepta cumplir con los términos y condiciones del respectivo procesador de pagos.
+- **Permiso parental requerido para menores:** Si usted es menor de edad, debe obtener el consentimiento verificable de sus padres o tutores legales antes de realizar cualquier compra a través de nuestros Servicios. Nos reservamos el derecho de cancelar o revocar cualquier compra realizada sin el consentimiento adecuado.
 
-- **Using Unauthorized Third-Party Software or Cheats:** You are not allowed to use any unauthorized third-party software, cheats, hacks, or other tools that modify or interfere with the normal operation of our games. This includes but is not limited to aimbots, wallhacks, speed hacks, or any other software that provides an unfair advantage or alters the game experience in any way.
+## 6. Contenido del Usuario
+### 6.1 Propiedad y Licencia
+- **Propiedad del Contenido del Usuario:** Usted conserva la plena propiedad de cualquier contenido generado por el usuario que cree y comparta dentro de nuestros Servicios. Esto significa que sigue manteniendo todos los derechos, títulos e intereses sobre su contenido, incluidos los derechos de propiedad intelectual.
+- **Licencia para Usar su Contenido:** Al crear y compartir su contenido de usuario dentro de nuestros Servicios, nos otorga una licencia mundial, no exclusiva, libre de regalías, perpetua, irrevocable y sublicenciable para usar, reproducir, distribuir, modificar, adaptar, publicar, traducir, crear obras derivadas de, y mostrar su contenido en cualquier medio o método de distribución conocido o desarrollado en el futuro. Esta licencia nos permite usar su contenido para propósitos como promover, mejorar y proporcionar nuestros Servicios.
+- **Modificación y Eliminación de Contenido:** Nos reservamos el derecho de modificar, editar o eliminar cualquier contenido de usuario a nuestra entera discreción. Esto significa que podemos alterar su contenido para ajustarlo a los requisitos de nuestra plataforma, eliminar contenido que viole nuestras pautas, o retirar contenido por cualquier otra razón que consideremos necesaria. Usted reconoce que no estamos obligados a mantener o proporcionar copias de su contenido, ni somos responsables de cualquier pérdida o daño resultante de la eliminación o modificación de su contenido.
 
-## 5. Virtual Items and Currency
+### 6.2 Reglas de Contenido
+Usted acepta que no creará, cargará, publicará o compartirá ningún contenido de usuario que:
+- **Ilegal o que Promueva Actividades Ilegales:** Viole cualquier ley, regulación o estándar legal aplicable, o fomente o promueva cualquier actividad ilegal, incluyendo pero no limitado a actos criminales, violencia o uso de drogas.
+- **Infrinja los Derechos de Propiedad Intelectual:** Infrinja los derechos de propiedad intelectual de otros, incluidos derechos de autor, marcas registradas, patentes, secretos comerciales o cualquier otro derecho de propiedad. Esto incluye usar el trabajo de otra persona sin permiso o atribución adecuada.
+- **Dañino, Abusivo o Discriminatorio:** Contenga material dañino, abusivo, amenazante, acosador, difamatorio, calumnioso, vulgar, obsceno o de otro modo objetable. Esto también incluye contenido que promueva la discriminación, intolerancia, racismo, odio o daño contra cualquier individuo o grupo basado en raza, etnia, religión, género, orientación sexual, discapacidad o cualquier otra característica.
+- **Falso o Engañoso:** Difunda información falsa, engañosa o engañosa, incluyendo pero no limitado a noticias falsas, engaños o cualquier contenido destinado a desinformar o engañar a otros.
+- **Spam o Publicidad No Autorizada:** Constituya publicidad no solicitada o no autorizada, materiales promocionales, correo basura, spam, cartas en cadena, esquemas piramidales o cualquier otra forma de solicitud. Esto incluye publicar contenido repetitivo o irrelevante para interrumpir el flujo normal de comunicación dentro de nuestros Servicios.
 
-### 5.1 Virtual Content
-- Virtual items and virtual currency that you acquire through our Services are provided to you under a limited license. This means that you are granted the right to use these virtual items and currency within the scope of our Services, but you do not own them. They are licensed to you, not sold, and remain the property of Constant Wave Technologies.
-- These virtual items and currency do not have any real-world value. They cannot be exchanged for real money, goods, or other items of monetary value from us or any other party. You acknowledge that you have no property rights or ownership interest in any virtual items or currency.
-- Virtual items and currency are non-transferable. You are not permitted to sell, trade, gift, or otherwise transfer them to any other person or account, whether within our Services or outside of them. Additionally, virtual items and currency are non-refundable, meaning that once they are acquired, you cannot return them for a refund or exchange.
-- We reserve the right to modify, manage, control, or eliminate virtual items and currency at our sole discretion. This means that we may make changes to the virtual items and currency, including altering their features, functionality, or availability, or removing them entirely from our Services, at any time and without prior notice to you.
+## 7. Conducta y Juego Limpio
+### 7.1 Actividades Prohibidas
+Está estrictamente prohibido participar en las siguientes actividades mientras utiliza nuestros Servicios:
 
-### 5.2 Purchases
-- **All purchases are final:** Once you make a purchase, it is considered final and non-refundable. We do not offer refunds or exchanges for any virtual items or currency purchased through our Services.
-- **Pricing and availability subject to change:** The prices and availability of virtual items and currency may change at any time without prior notice. We reserve the right to modify, discontinue, or remove any virtual items or currency from our Services at our discretion.
-- **Payment processing through authorized third parties:** All payments for virtual items and currency are processed through authorized third-party payment processors. By making a purchase, you agree to comply with the terms and conditions of the respective payment processor.
-- **Parental permission required for minors:** If you are a minor, you must obtain verifiable parental or legal guardian consent before making any purchases through our Services. We reserve the right to cancel or revoke any purchases made without proper consent.
+- **Hacer Trampa o Usar Herramientas No Autorizadas:** No debe usar trampas, hacks, bots u otro software de terceros no autorizado que modifique o interfiera con el funcionamiento normal de nuestros juegos. Esto incluye, pero no se limita a, aimbots, wallhacks, speed hacks o cualquier otro software que proporcione una ventaja injusta o altere la experiencia del juego de alguna manera.
 
-## 6. User Content
-### 6.1 Ownership and License
-- **Ownership of User Content:** You retain full ownership of any user-generated content that you create and share within our Services. This means that you continue to hold all rights, titles, and interests in your content, including any intellectual property rights.
-- **License to Use Your Content:** By creating and sharing your user content within our Services, you grant us a worldwide, non-exclusive, royalty-free, perpetual, irrevocable, and sublicensable license to use, reproduce, distribute, modify, adapt, publish, translate, create derivative works from, and display your content in any media or distribution methods now known or later developed. This license allows us to use your content for purposes such as promoting, improving, and providing our Services.
-- **Modification and Removal of Content:** We reserve the right to modify, edit, or remove any user content at our sole discretion. This means that we may alter your content to fit our platform's requirements, remove content that violates our guidelines, or take down content for any other reason we deem necessary. You acknowledge that we are not obligated to maintain or provide copies of your content, nor are we responsible for any loss or damage resulting from the removal or modification of your content.
+- **Acosar o Abusar de Otros Usuarios:** No se le permite participar en ninguna forma de acoso, abuso o intimidación hacia otros usuarios. Esto incluye enviar mensajes amenazantes, abusivos u ofensivos, acechar o cualquier otro comportamiento que tenga la intención de dañar o intimidar a otros.
 
-### 6.2 Content Rules
-You agree that you will not create, upload, post, or share any user content that:
-- **Illegal or Promotes Illegal Activities:** Violates any applicable laws, regulations, or legal standards, or encourages or promotes any illegal activities, including but not limited to criminal acts, violence, or drug use.
-- **Infringing on Intellectual Property Rights:** Infringes upon the intellectual property rights of others, including copyrights, trademarks, patents, trade secrets, or any other proprietary rights. This includes using someone else's work without permission or proper attribution.
-- **Harmful, Abusive, or Discriminatory:** Contains any harmful, abusive, threatening, harassing, defamatory, libelous, vulgar, obscene, or otherwise objectionable material. This also includes content that promotes discrimination, bigotry, racism, hatred, or harm against any individual or group based on race, ethnicity, religion, gender, sexual orientation, disability, or any other characteristic.
-- **False or Misleading:** Spreads false, misleading, or deceptive information, including but not limited to fake news, hoaxes, or any content intended to misinform or deceive others.
-- **Spam or Unauthorized Advertising:** Constitutes unsolicited or unauthorized advertising, promotional materials, junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation. This includes posting repetitive or irrelevant content to disrupt the normal flow of communication within our Services.
+- **Interferir con las Operaciones del Juego:** No debe interferir con el funcionamiento normal de nuestros juegos o Servicios. Esto incluye acciones como interrumpir servidores, sobrecargar sistemas, lanzar ataques de denegación de servicio o cualquier otra actividad que impacte negativamente el rendimiento o la disponibilidad de nuestros Servicios.
 
-## 7. Conduct and Fair Play
-### 7.1 Prohibited Activities
-You are strictly prohibited from engaging in the following activities while using our Services:
+- **Crear Múltiples Cuentas:** Está prohibido crear múltiples cuentas con el propósito de obtener una ventaja injusta, eludir restricciones o participar en cualquier actividad que viole nuestros Términos. A cada usuario se le permite tener solo una cuenta a menos que esté explícitamente autorizado por nosotros.
 
-- **Cheating or Using Unauthorized Tools:** You must not use any cheats, hacks, bots, or other unauthorized third-party software that modifies or interferes with the normal operation of our games. This includes, but is not limited to, aimbots, wallhacks, speed hacks, or any other software that provides an unfair advantage or alters the game experience in any way.
+- **Vender o Intercambiar Cuentas:** No debe vender, intercambiar o transferir su cuenta o cualquier artículo virtual o moneda asociada con su cuenta a otra persona. Esto incluye ofrecer vender o intercambiar cuentas o artículos virtuales por dinero real, bienes u otros artículos de valor.
 
-- **Harassing or Abusing Other Users:** You are not allowed to engage in any form of harassment, abuse, or bullying towards other users. This includes sending threatening, abusive, or offensive messages, stalking, or any other behavior that is intended to harm or intimidate others.
+- **Usar Exploits o Errores:** No se le permite explotar errores, fallos o características no intencionadas en nuestros juegos para obtener una ventaja injusta o para interrumpir el funcionamiento normal del juego. Si descubre algún problema de este tipo, debe informarnos de inmediato y abstenerse de utilizarlos.
 
-- **Interfering with Game Operations:** You must not interfere with the normal functioning of our games or Services. This includes actions such as disrupting servers, overloading systems, launching denial-of-service attacks, or any other activities that negatively impact the performance or availability of our Services.
+### 7.2 Sanciones
+Si viola alguna de las actividades prohibidas mencionadas anteriormente, puede enfrentar una serie de sanciones, que incluyen, pero no se limitan a:
 
-- **Creating Multiple Accounts:** You are prohibited from creating multiple accounts for the purpose of gaining an unfair advantage, circumventing restrictions, or engaging in any activities that violate our Terms. Each user is allowed to have only one account unless explicitly authorized by us.
+- **Advertencia:** Puede recibir una advertencia de nuestra parte, notificándole de la violación e instruyéndole que cese la actividad prohibida de inmediato.
 
-- **Selling or Trading Accounts:** You must not sell, trade, or transfer your account or any virtual items or currency associated with your account to another person. This includes offering to sell or trade accounts or virtual items for real money, goods, or other items of value.
+- **Suspensión Temporal:** Su cuenta puede ser suspendida temporalmente, impidiéndole acceder a nuestros Servicios por un período especificado. La duración de la suspensión dependerá de la gravedad de la violación.
 
-- **Using Exploits or Bugs:** You are not allowed to exploit any bugs, glitches, or unintended features in our games to gain an unfair advantage or to disrupt the normal functioning of the game. If you discover any such issues, you should report them to us immediately and refrain from using them.
+- **Terminación Permanente de la Cuenta:** En casos de violaciones graves o repetidas, su cuenta puede ser terminada permanentemente, y ya no podrá acceder a nuestros Servicios. Esta acción se toma a nuestra entera discreción y es definitiva.
 
-### 7.2 Penalties
-If you violate any of the prohibited activities outlined above, you may face a range of penalties, including but not limited to:
+- **Pérdida de Artículos Virtuales o Progreso:** Puede perder acceso a cualquier artículo virtual, moneda o progreso asociado con su cuenta. Esto incluye la pérdida de cualquier logro en el juego, niveles u otros logros.
 
-- **Warning:** You may receive a warning from us, notifying you of the violation and instructing you to cease the prohibited activity immediately.
+- **Acción Legal:** Nos reservamos el derecho de emprender acciones legales contra usted si sus acciones resultan en un daño significativo a nuestros Servicios, nuestros usuarios o nuestra empresa. Esto puede incluir buscar daños, medidas cautelares u otros recursos legales según corresponda.
 
-- **Temporary Suspension:** Your account may be temporarily suspended, preventing you from accessing our Services for a specified period. The duration of the suspension will depend on the severity of the violation.
+## 8. Propiedad Intelectual
+### 8.1 Propiedad
+- **Propiedad de los Juegos y Contenido:** Todos los juegos, incluidos, entre otros, software, gráficos, diseños, personajes, tramas y cualquier otro contenido proporcionado a través de nuestros Servicios, son propiedad exclusiva de Constant Wave Technologies. Esto significa que poseemos todos los derechos, títulos e intereses sobre estos juegos y contenido.
+- **Derechos de Propiedad Intelectual Reservados:** Todas las marcas comerciales, marcas de servicio, nombres comerciales, logotipos y otras características distintivas de la marca, así como los derechos de autor, patentes y cualquier otro derecho de propiedad intelectual asociado con nuestros juegos y contenido, están reservados por Constant Wave Technologies. Esta reserva de derechos significa que mantenemos el control total y la propiedad sobre nuestra propiedad intelectual.
+- **Restricciones sobre el Uso de la Propiedad Intelectual:** Se prohíbe estrictamente a los usuarios usar, copiar, distribuir, modificar o crear obras derivadas basadas en nuestra propiedad intelectual sin obtener permiso explícito por escrito de Constant Wave Technologies. El uso no autorizado de nuestra propiedad intelectual es una violación de estos Términos y puede resultar en acciones legales.
 
-- **Permanent Account Termination:** In cases of severe or repeated violations, your account may be permanently terminated, and you will no longer be able to access our Services. This action is taken at our sole discretion and is final.
+### 8.2 Cumplimiento de la DMCA
+- **Respuesta a Notificaciones de Infracción de Derechos de Autor:** Nos tomamos en serio la infracción de derechos de autor y cumplimos con los procedimientos de la Ley de Derechos de Autor del Milenio Digital (DMCA). Si cree que su obra protegida por derechos de autor ha sido utilizada o copiada de una manera que constituye una infracción de derechos de autor y es accesible a través de nuestros Servicios, puede notificar a nuestro agente designado de la DMCA.
+- **Requisitos de Notificación de la DMCA:** Para ser efectiva, su notificación debe ser por escrito e incluir la siguiente información:
+  - Una firma física o electrónica de una persona autorizada para actuar en nombre del propietario del interés de los derechos de autor.
+  - Una descripción de la obra protegida por derechos de autor que usted afirma ha sido infringida.
+  - Una descripción de dónde se encuentra el material que usted afirma está infringiendo en nuestros Servicios.
+  - Su dirección, número de teléfono y dirección de correo electrónico.
+  - Una declaración suya de que tiene la creencia de buena fe de que el uso en disputa no está autorizado por el propietario de los derechos de autor, su agente o la ley.
+  - Una declaración suya, hecha bajo pena de perjurio, de que la información en su notificación es precisa y que usted es el propietario de los derechos de autor o está autorizado para actuar en nombre del propietario de los derechos de autor.
+- **Información de Contacto del Agente Designado de la DMCA:** Puede enviar su notificación de la DMCA a nuestro agente designado en la siguiente dirección:
+  - **Correo Electrónico:** dmca@constantwave.tech
+  - **Correo Postal:** Constant Wave Technologies, Attn: DMCA Agent, Calle Agustin de Foxa, 4, 2B, 28036 MADRID, ESPAÑA
+- **Acción Tras Recibir la Notificación de la DMCA:** Al recibir una notificación válida de la DMCA, investigaremos rápidamente la reclamación y tomaremos las medidas apropiadas, que pueden incluir la eliminación o desactivación del acceso al material presuntamente infractor. También notificaremos al usuario que publicó el material que se ha recibido una notificación de la DMCA y que el material ha sido eliminado o se ha desactivado el acceso al mismo.
 
-- **Loss of Virtual Items or Progress:** You may lose access to any virtual items, currency, or progress associated with your account. This includes the forfeiture of any in-game achievements, levels, or other accomplishments.
+## 9. Privacidad y Protección de Datos
 
-- **Legal Action:** We reserve the right to take legal action against you if your actions result in significant harm to our Services, our users, or our company. This may include seeking damages, injunctions, or other legal remedies as appropriate.
+### 9.1 Recopilación y Uso de Datos
+Estamos comprometidos a proteger su privacidad y a garantizar que sus datos personales sean recopilados y utilizados de acuerdo con nuestra Política de Privacidad. Nuestra Política de Privacidad proporciona información detallada sobre los tipos de datos que recopilamos, cómo los usamos y las medidas que tomamos para proteger su información. Al utilizar nuestros Servicios, usted acepta la recopilación y el uso de sus datos tal como se describe en nuestra Política de Privacidad.
 
-## 8. Intellectual Property
-### 8.1 Ownership
-- **Ownership of Games and Content:** All games, including but not limited to software, graphics, designs, characters, storylines, and any other content provided through our Services, are the exclusive property of Constant Wave Technologies. This means that we hold all rights, titles, and interests in and to these games and content.
-- **Intellectual Property Rights Reserved:** All trademarks, service marks, trade names, logos, and other distinctive brand features, as well as copyrights, patents, and any other intellectual property rights associated with our games and content, are reserved by Constant Wave Technologies. This reservation of rights means that we retain full control and ownership over our intellectual property.
-- **Restrictions on Use of Intellectual Property:** Users are strictly prohibited from using, copying, distributing, modifying, or creating derivative works based on our intellectual property without obtaining explicit written permission from Constant Wave Technologies. Unauthorized use of our intellectual property is a violation of these Terms and may result in legal action.
+### 9.2 Cumplimiento con el GDPR y Otras Leyes Aplicables
+Cumplimos con el Reglamento General de Protección de Datos (GDPR), la Ley de Privacidad del Consumidor de California (CCPA/CPRA), la Ley General de Protección de Datos de Brasil (LGPD), la Ley de Protección de Información Personal y Documentos Electrónicos de Canadá (PIPEDA), la Ley de Privacidad de Australia, la Ley de Protección de Información Personal de China (PIPL) y otras leyes de protección de datos aplicables para garantizar que sus datos personales sean procesados de manera legal, justa y transparente. Esto incluye implementar medidas técnicas y organizativas adecuadas para proteger sus datos contra el acceso, divulgación, alteración o destrucción no autorizados. También nos adherimos a los principios de minimización de datos, asegurando que solo recopilamos y procesamos los datos necesarios para los fines descritos en nuestra Política de Privacidad.
 
-### 8.2 DMCA Compliance
-- **Response to Copyright Infringement Notices:** We take copyright infringement seriously and comply with the Digital Millennium Copyright Act (DMCA) procedures. If you believe that your copyrighted work has been used or copied in a way that constitutes copyright infringement and is accessible through our Services, you may notify our designated DMCA agent.
-- **DMCA Notice Requirements:** To be effective, your notification must be in writing and include the following information:
-  - A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright interest.
-  - A description of the copyrighted work that you claim has been infringed.
-  - A description of where the material that you claim is infringing is located on our Services.
-  - Your address, telephone number, and email address.
-  - A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
-  - A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
-- **Designated DMCA Agent Contact Information:** You can send your DMCA notice to our designated agent at the following address:
-  - **Email:** dmca@constantwave.tech
-  - **Mail:** Constant Wave Technologies, Attn: DMCA Agent, Calle Agustin de Foxa, 4, 2B, 28036 MADRID, SPAIN
-- **Action Upon Receipt of DMCA Notice:** Upon receipt of a valid DMCA notice, we will promptly investigate the claim and take appropriate action, which may include removing or disabling access to the allegedly infringing material. We will also notify the user who posted the material that a DMCA notice has been received and that the material has been removed or access to it has been disabled.
+### 9.3 Derechos del Usuario Respecto a los Datos Personales
+Como usuario, usted tiene ciertos derechos respecto a sus datos personales, que pueden variar dependiendo de su ubicación y las leyes de protección de datos aplicables. Estos derechos incluyen, pero no se limitan a:
 
-## 9. Privacy and Data Protection
+- **Derecho de Acceso:** Usted tiene el derecho de solicitar acceso a los datos personales que tenemos sobre usted y de recibir información sobre cómo los procesamos.
+- **Derecho de Rectificación:** Usted tiene el derecho de solicitar la corrección de cualquier dato personal inexacto o incompleto que tengamos sobre usted.
+- **Derecho de Supresión:** Usted tiene el derecho de solicitar la eliminación de sus datos personales en ciertas circunstancias, como cuando los datos ya no son necesarios para los fines para los que fueron recopilados o cuando retira su consentimiento.
+- **Derecho a Restringir el Procesamiento:** Usted tiene el derecho de solicitar la restricción del procesamiento de sus datos personales bajo ciertas condiciones, como cuando impugna la exactitud de los datos o se opone al procesamiento.
+- **Derecho a la Portabilidad de los Datos:** Usted tiene el derecho de recibir sus datos personales en un formato estructurado, de uso común y legible por máquina y de solicitar la transferencia de sus datos a otro controlador.
+- **Derecho de Oposición:** Usted tiene el derecho de oponerse al procesamiento de sus datos personales para fines de marketing directo o cuando el procesamiento se basa en nuestros intereses legítimos.
+- **Derecho a Retirar el Consentimiento:** Si procesamos sus datos personales basándonos en su consentimiento, usted tiene el derecho de retirar su consentimiento en cualquier momento, sin afectar la legalidad del procesamiento basado en el consentimiento antes de su retirada.
 
-### 9.1 Data Collection and Use
-We are committed to protecting your privacy and ensuring that your personal data is collected and used in accordance with our Privacy Policy. Our Privacy Policy provides detailed information on the types of data we collect, how we use it, and the measures we take to safeguard your information. By using our Services, you agree to the collection and use of your data as described in our Privacy Policy.
+Para ejercer cualquiera de estos derechos, por favor consulte nuestra Política de Privacidad para obtener instrucciones detalladas sobre cómo enviar una solicitud. Responderemos a su solicitud dentro del plazo requerido por la ley aplicable y es posible que necesitemos verificar su identidad antes de procesar su solicitud.
 
-### 9.2 Compliance with GDPR and Other Applicable Laws
-We comply with the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA/CPRA), Brazil's Lei Geral de Proteção de Dados (LGPD), Canada's Personal Information Protection and Electronic Documents Act (PIPEDA), Australia's Privacy Act, China's Personal Information Protection Law (PIPL), and other applicable data protection laws to ensure that your personal data is processed lawfully, fairly, and transparently. This includes implementing appropriate technical and organizational measures to protect your data from unauthorized access, disclosure, alteration, or destruction. We also adhere to data minimization principles, ensuring that we only collect and process the data necessary for the purposes outlined in our Privacy Policy.
+### 9.4 Información de Contacto
+Si tiene alguna pregunta, inquietud o consulta sobre nuestras prácticas de privacidad, la forma en que manejamos sus datos personales o sus derechos respecto a sus datos personales, no dude en ponerse en contacto con nosotros. Valoramos su privacidad y estamos aquí para ayudarle con cualquier problema o pregunta que pueda tener. Puede contactarnos a través de los siguientes medios:
 
-### 9.3 User Rights Regarding Personal Data
-As a user, you have certain rights regarding your personal data, which may vary depending on your location and the applicable data protection laws. These rights include, but are not limited to:
+- **Correo Electrónico:** Para preguntas o inquietudes generales relacionadas con la privacidad, por favor envíenos un correo electrónico a privacy@constantwave.tech. Nuestro equipo de privacidad revisará su consulta y responderá lo antes posible.
+- **Oficial de Protección de Datos:** Para asuntos más específicos o sensibles, puede contactar directamente a nuestro Oficial de Protección de Datos en dpo@constantwave.tech. Nuestro Oficial de Protección de Datos es responsable de supervisar nuestra estrategia de protección de datos y garantizar el cumplimiento de las leyes de protección de datos relevantes.
 
-- **Right to Access:** You have the right to request access to the personal data we hold about you and to receive information about how we process it.
-- **Right to Rectification:** You have the right to request the correction of any inaccurate or incomplete personal data we hold about you.
-- **Right to Erasure:** You have the right to request the deletion of your personal data under certain circumstances, such as when the data is no longer necessary for the purposes for which it was collected or when you withdraw your consent.
-- **Right to Restrict Processing:** You have the right to request the restriction of processing your personal data under certain conditions, such as when you contest the accuracy of the data or object to the processing.
-- **Right to Data Portability:** You have the right to receive your personal data in a structured, commonly used, and machine-readable format and to request the transfer of your data to another controller.
-- **Right to Object:** You have the right to object to the processing of your personal data for direct marketing purposes or when the processing is based on our legitimate interests.
-- **Right to Withdraw Consent:** If we process your personal data based on your consent, you have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.
+Estamos comprometidos a atender sus consultas y resolver cualquier problema relacionado con su privacidad y protección de datos de manera rápida y efectiva. Nuestro equipo hará todo lo posible para proporcionarle una respuesta completa y satisfactoria. Su privacidad es de suma importancia para nosotros, y nos esforzamos por garantizar que sus datos personales sean manejados con el más alto nivel de cuidado y transparencia.
 
-To exercise any of these rights, please refer to our Privacy Policy for detailed instructions on how to submit a request. We will respond to your request within the timeframe required by applicable law and may need to verify your identity before processing your request.
+## 10. Descargos de Responsabilidad y Limitaciones
 
-### 9.4 Contact Information
-If you have any questions, concerns, or inquiries about our privacy practices, the way we handle your personal data, or your rights regarding your personal data, please do not hesitate to reach out to us. We value your privacy and are here to assist you with any issues or questions you may have. You can contact us through the following means:
+### 10.1 Descargo de Garantía
+Nuestros Servicios se proporcionan "TAL CUAL" y "SEGÚN DISPONIBILIDAD", sin garantías ni representaciones de ningún tipo, ya sean expresas o implícitas. Esto significa que no garantizamos que nuestros Servicios sean ininterrumpidos, libres de errores o de virus u otros componentes dañinos. Renunciamos expresamente a todas las garantías, incluidas, entre otras, las garantías implícitas de comerciabilidad, idoneidad para un propósito particular, no infracción y cualquier garantía que surja del curso de la negociación o uso del comercio. Usted utiliza nuestros Servicios bajo su propio riesgo, y no hacemos promesas ni garantías sobre la exactitud, fiabilidad o integridad del contenido o la información proporcionada a través de nuestros Servicios.
 
-- **Email:** For general privacy-related questions or concerns, please email us at privacy@constantwave.tech. Our privacy team will review your inquiry and respond as soon as possible.
-- **Data Protection Officer:** For more specific or sensitive matters, you may contact our Data Protection Officer directly at dpo@constantwave.tech. Our Data Protection Officer is responsible for overseeing our data protection strategy and ensuring compliance with relevant data protection laws.
+### 10.2 Limitación de Responsabilidad
+En la máxima medida permitida por la ley aplicable, no seremos responsables de ningún daño indirecto, incidental, especial, consecuente o punitivo, ni de ninguna pérdida de beneficios o ingresos, ya sea incurrida directa o indirectamente, ni de ninguna pérdida de datos, uso, buena voluntad u otras pérdidas intangibles, resultantes de (i) su acceso o uso o incapacidad para acceder o usar nuestros Servicios; (ii) cualquier conducta o contenido de cualquier tercero en nuestros Servicios, incluyendo, sin limitación, cualquier conducta difamatoria, ofensiva o ilegal de otros usuarios o terceros; (iii) cualquier contenido obtenido de nuestros Servicios; y (iv) acceso no autorizado, uso o alteración de sus transmisiones o contenido.
 
-We are committed to addressing your inquiries and resolving any issues related to your privacy and data protection promptly and effectively. Our team will make every effort to provide you with a comprehensive and satisfactory response. Your privacy is of utmost importance to us, and we strive to ensure that your personal data is handled with the highest level of care and transparency.
-## 10. Disclaimers and Limitations
+Nuestra responsabilidad total hacia usted por cualquier reclamación que surja de o esté relacionada con estos Términos o nuestros Servicios está limitada a la cantidad que nos haya pagado por el acceso y uso de nuestros Servicios en los doce (12) meses anteriores a la fecha de la reclamación. En jurisdicciones donde no se permiten limitaciones de responsabilidad por daños consecuentes o incidentales, nuestra responsabilidad se limita al máximo permitido por la ley. Esta limitación de responsabilidad es un elemento fundamental de la base del acuerdo entre usted y nosotros, y se aplica a todas las reclamaciones, ya sea basadas en garantía, contrato, agravio (incluida la negligencia), estatuto o cualquier otra teoría legal, y ya sea que hayamos sido informados o no de la posibilidad de tales daños.
 
-### 10.1 Warranty Disclaimer
-Our Services are provided on an "AS IS" and "AS AVAILABLE" basis, without any warranties or representations of any kind, whether express or implied. This means that we do not guarantee that our Services will be uninterrupted, error-free, or free from viruses or other harmful components. We expressly disclaim all warranties, including but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement, and any warranties arising out of the course of dealing or usage of trade. You use our Services at your own risk, and we do not make any promises or guarantees about the accuracy, reliability, or completeness of the content or information provided through our Services.
+## 11. Terminación
 
-### 10.2 Limitation of Liability
-To the fullest extent permitted by applicable law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use our Services; (ii) any conduct or content of any third party on our Services, including without limitation, any defamatory, offensive, or illegal conduct of other users or third parties; (iii) any content obtained from our Services; and (iv) unauthorized access, use, or alteration of your transmissions or content.
+### 11.1 Terminación por los Usuarios
+- Como usuario, tiene el derecho de terminar su cuenta con nosotros en cualquier momento. Esto significa que puede optar por dejar de usar nuestros Servicios y cerrar su cuenta cuando lo desee, sin necesidad de proporcionar una razón específica para hacerlo. Para terminar su cuenta, es posible que deba seguir el proceso de terminación de cuenta descrito en nuestra documentación de soporte o contactar a nuestro equipo de atención al cliente para obtener ayuda.
+- Tenga en cuenta que si ha comprado algún contenido o servicio de nosotros, no ofrecemos reembolsos por ningún contenido pagado al terminar su cuenta. Esta política se aplica independientemente de la razón de la terminación, ya sea voluntaria o debido a insatisfacción con nuestros Servicios. Le animamos a revisar nuestra política de reembolsos y considerar esto antes de realizar cualquier compra.
 
-Our total liability to you for any claims arising out of or relating to these Terms or our Services is limited to the amount you have paid us for access to and use of our Services in the twelve (12) months preceding the date of the claim. In jurisdictions where limitations of liability for consequential or incidental damages are not allowed, our liability is limited to the maximum extent permitted by law. This limitation of liability is a fundamental element of the basis of the bargain between you and us, and it applies to all claims, whether based on warranty, contract, tort (including negligence), statute, or any other legal theory, and whether or not we have been informed of the possibility of such damage.
+### 11.2 Terminación por la Empresa
+- Nos reservamos el derecho de terminar o suspender su acceso a nuestros Servicios si viola cualquiera de los términos y condiciones descritos en estos Términos. Esto incluye, pero no se limita a, participar en actividades prohibidas, violar nuestro código de conducta o no cumplir con las leyes o regulaciones aplicables. La terminación o suspensión del acceso se aplicará para mantener la integridad y seguridad de nuestros Servicios y proteger los derechos e intereses de otros usuarios.
+- En ciertas circunstancias, podemos terminar o suspender su acceso a nuestros Servicios sin previo aviso. Esto significa que no estamos obligados a proporcionarle una advertencia previa o una explicación antes de tomar tal acción. La terminación o suspensión inmediata puede ser necesaria en casos de violaciones graves, daño potencial a otros usuarios o amenazas a la seguridad de nuestra plataforma.
+- La decisión de terminar o suspender su acceso a nuestros Servicios se toma a nuestra entera discreción. Esto significa que tenemos la autoridad para determinar si ha ocurrido una violación y qué acciones son apropiadas en respuesta. Nuestra decisión se basará en nuestra evaluación de la situación y la necesidad de mantener los términos y condiciones de nuestros Servicios. Nos esforzamos por garantizar que nuestras acciones sean justas y justificadas, pero mantenemos la autoridad final en estos asuntos.
 
-## 11. Termination
+## 12. Cambios en los Términos
 
-### 11.1 Termination by Users
-- As a user, you have the right to terminate your account with us at any time. This means that you can choose to stop using our Services and close your account whenever you wish, without needing to provide any specific reason for doing so. To terminate your account, you may need to follow the account termination process outlined in our support documentation or contact our customer support team for assistance.
-- Please note that if you have purchased any content or services from us, we do not offer refunds for any paid content upon termination of your account. This policy applies regardless of the reason for termination, whether it is voluntary or due to dissatisfaction with our Services. We encourage you to review our refund policy and consider this before making any purchases.
+### 12.1 Derecho a Modificar los Términos
+Nos reservamos el derecho de modificar, enmendar o actualizar estos Términos y Condiciones en cualquier momento, a nuestra entera discreción. Esto significa que podemos realizar cambios en las reglas y directrices que rigen su uso de nuestros Servicios siempre que lo consideremos necesario. Estas modificaciones pueden incluir, pero no se limitan a, cambios en nuestras políticas, características o funcionalidades de los Servicios.
 
-### 11.2 Termination by Company
-- We reserve the right to terminate or suspend your access to our Services if you violate any of the terms and conditions outlined in these Terms. This includes, but is not limited to, engaging in prohibited activities, breaching our code of conduct, or failing to comply with any applicable laws or regulations. Termination or suspension of access will be enforced to maintain the integrity and security of our Services and to protect the rights and interests of other users.
-- In certain circumstances, we may terminate or suspend your access to our Services without prior notice. This means that we are not obligated to provide you with advance warning or an explanation before taking such action. Immediate termination or suspension may be necessary in cases of severe violations, potential harm to other users, or threats to the security of our platform.
-- The decision to terminate or suspend your access to our Services is made at our sole discretion. This means that we have the authority to determine whether a violation has occurred and what actions are appropriate in response. Our decision will be based on our assessment of the situation and the need to uphold the terms and conditions of our Services. We strive to ensure that our actions are fair and justified, but we retain the ultimate authority in these matters.
-## 12. Changes to Terms
+### 12.2 Notificación de Cambios
+Cuando realicemos cualquier cambio en estos Términos, le proporcionaremos un aviso de dichos cambios a través de nuestros Servicios. Este aviso puede entregarse de diversas formas, incluyendo, pero no limitado a, notificaciones dentro de los Servicios, comunicaciones por correo electrónico o actualizaciones publicadas en nuestro sitio web. El método de notificación se elegirá en función de la naturaleza y la importancia de los cambios.
 
-### 12.1 Right to Modify Terms
-We reserve the right to modify, amend, or update these Terms and Conditions at any time, at our sole discretion. This means that we can make changes to the rules and guidelines that govern your use of our Services whenever we deem it necessary. These modifications may include, but are not limited to, changes in our policies, features, or functionalities of the Services.
+### 12.3 Aceptación de los Cambios
+Su uso continuado de nuestros Servicios después de que le hayamos proporcionado el aviso de los cambios constituirá su aceptación de los Términos modificados. Esto significa que si continúa accediendo o utilizando nuestros Servicios después de la notificación, está aceptando estar sujeto a los Términos actualizados. Es su responsabilidad revisar los cambios y comprender cómo pueden afectar su uso de los Servicios.
 
-### 12.2 Notification of Changes
-When we make any changes to these Terms, we will provide you with notice of such changes through our Services. This notice may be delivered in various forms, including but not limited to, notifications within the Services, email communications, or updates posted on our website. The method of notification will be chosen based on the nature and significance of the changes.
+### 12.4 Consentimiento Explícito para Cambios Materiales
+Para cualquier cambio material en estos Términos, solicitaremos su consentimiento explícito antes de implementar los cambios. Los cambios materiales son aquellos que impactan significativamente sus derechos u obligaciones bajo estos Términos. Proporcionaremos instrucciones claras sobre cómo dar su consentimiento, lo que puede incluir hacer clic en un botón de "Acepto" o una acción similar. Si no proporciona su consentimiento explícito a los cambios materiales, es posible que no pueda continuar utilizando ciertas características o funcionalidades de nuestros Servicios.
 
-### 12.3 Acceptance of Changes
-Your continued use of our Services after we have provided notice of the changes will constitute your acceptance of the modified Terms. This means that if you continue to access or use our Services following the notification, you are agreeing to be bound by the updated Terms. It is your responsibility to review the changes and understand how they may affect your use of the Services.
+### 12.5 Revisión de los Términos
+Le animamos a revisar periódicamente estos Términos para mantenerse informado sobre cualquier actualización o modificación. Al mantenerse informado, puede asegurarse de estar al tanto de sus derechos y obligaciones al utilizar nuestros Servicios. Si tiene alguna pregunta o inquietud sobre los cambios, no dude en contactarnos para obtener aclaraciones.
 
-### 12.4 Explicit Consent for Material Changes
-For any material changes to these Terms, we will seek your explicit consent before implementing the changes. Material changes are those that significantly impact your rights or obligations under these Terms. We will provide clear instructions on how to provide your consent, which may include clicking an "I Agree" button or similar action. If you do not provide your explicit consent to the material changes, you may not be able to continue using certain features or functionalities of our Services.
+### 12.6 Fecha de Vigencia de los Cambios
+Todos los cambios a estos Términos entrarán en vigencia inmediatamente después de publicar los Términos actualizados en nuestro sitio web o dentro de los Servicios, a menos que se especifique lo contrario. La fecha de vigencia de los cambios se indicará claramente al comienzo del documento de Términos actualizados. Es importante tener en cuenta la fecha de vigencia para entender cuándo se aplican los nuevos Términos a su uso de los Servicios.
 
-### 12.5 Review of Terms
-We encourage you to periodically review these Terms to stay informed about any updates or modifications. By staying informed, you can ensure that you are aware of your rights and obligations when using our Services. If you have any questions or concerns about the changes, please do not hesitate to contact us for clarification.
+### 12.7 Naturaleza Vinculante de los Cambios
+Los Términos actualizados serán vinculantes para todos los usuarios de nuestros Servicios desde la fecha de vigencia de los cambios. Esto significa que todos los usuarios, incluidos aquellos que pueden no haber recibido notificación directa, están sujetos a los Términos actualizados. Al continuar utilizando nuestros Servicios, usted reconoce y acepta estar sujeto a los Términos modificados.
 
-### 12.6 Effective Date of Changes
-All changes to these Terms will become effective immediately upon posting the updated Terms on our website or within the Services, unless otherwise specified. The effective date of the changes will be clearly indicated at the beginning of the updated Terms document. It is important to note the effective date to understand when the new Terms apply to your use of the Services.
+### 12.8 Información de Contacto para Cambios
+Si tiene alguna pregunta, inquietud o necesita más información sobre los cambios a estos Términos, por favor contáctenos a través de los siguientes medios:
 
-### 12.7 Binding Nature of Changes
-The updated Terms will be binding on all users of our Services from the effective date of the changes. This means that all users, including those who may not have received direct notification, are subject to the updated Terms. By continuing to use our Services, you acknowledge and agree to be bound by the modified Terms.
+- **Correo Electrónico:** Para consultas generales sobre los cambios, por favor envíenos un correo electrónico a legal@constantwave.tech. Nuestro equipo legal revisará su consulta y responderá lo antes posible.
+- **Oficial de Protección de Datos:** Para asuntos específicos o sensibles relacionados con los cambios, puede contactar directamente a nuestro Oficial de Protección de Datos en dpo@constantwave.tech. Nuestro Oficial de Protección de Datos es responsable de supervisar nuestro cumplimiento con las leyes y regulaciones relevantes.
 
-### 12.8 Contact Information for Changes
-If you have any questions, concerns, or require further information about the changes to these Terms, please contact us through the following means:
+Estamos comprometidos a asegurarnos de que esté completamente informado sobre cualquier cambio en estos Términos y que sus derechos e intereses estén protegidos durante todo el proceso.
 
-- **Email:** For general inquiries about the changes, please email us at legal@constantwave.tech. Our legal team will review your inquiry and respond as soon as possible.
-- **Data Protection Officer:** For specific or sensitive matters related to the changes, you may contact our Data Protection Officer directly at dpo@constantwave.tech. Our Data Protection Officer is responsible for overseeing our compliance with relevant laws and regulations.
+## 13. Ley Aplicable y Jurisdicción
 
-We are committed to ensuring that you are fully informed about any changes to these Terms and that your rights and interests are protected throughout the process.
-## 13. Governing Law and Jurisdiction
+### 13.1 Ley Aplicable
+Estos Términos y Condiciones, así como cualquier disputa o reclamación que surja de o en conexión con ellos, incluyendo su formación, validez o terminación, se regirán e interpretarán de acuerdo con las leyes de España. Esto significa que los principios y regulaciones legales de España se aplicarán para interpretar y hacer cumplir estos Términos.
 
-### 13.1 Governing Law
-These Terms and Conditions, as well as any disputes or claims arising out of or in connection with them, including their formation, validity, or termination, shall be governed by and construed in accordance with the laws of Spain. This means that the legal principles and regulations of Spain will be applied to interpret and enforce these Terms.
+### 13.2 Jurisdicción
+Cualquier acción legal o procedimiento que surja de o esté relacionado con estos Términos y Condiciones o su uso de nuestros Servicios se llevará exclusivamente en los tribunales ubicados en Madrid, España. Esto significa que si tiene alguna disputa o reclamación legal contra nosotros, debe presentarla en los tribunales apropiados de Madrid. Al aceptar estos Términos, usted consiente la jurisdicción de estos tribunales y renuncia a cualquier objeción a la inconveniencia de este foro.
 
-### 13.2 Jurisdiction
-Any legal action or proceeding arising out of or related to these Terms and Conditions or your use of our Services shall be brought exclusively in the courts located in Madrid, Spain. This means that if you have any legal disputes or claims against us, you must file them in the appropriate courts in Madrid. By agreeing to these Terms, you consent to the jurisdiction of these courts and waive any objections to the inconvenience of this forum.
+### 13.3 Derechos de Protección al Consumidor para Usuarios de la UE
+Si usted es un usuario ubicado dentro de la Unión Europea, conserva cualquier derecho de protección al consumidor obligatorio al que tenga derecho bajo las leyes de su país de residencia. Esto significa que, independientemente de las cláusulas de ley aplicable y jurisdicción mencionadas anteriormente, aún se beneficiará de cualquier derecho de protección al consumidor proporcionado por las leyes de su país de origen. Estos derechos están diseñados para garantizar que se le trate de manera justa y que sus intereses estén protegidos al utilizar nuestros Servicios.
 
-### 13.3 Consumer Protection Rights for EU Users
-If you are a user located within the European Union, you retain any mandatory consumer protection rights that you are entitled to under the laws of your country of residence. This means that regardless of the governing law and jurisdiction clauses stated above, you will still benefit from any consumer protection rights provided by the laws of your home country. These rights are designed to ensure that you are treated fairly and that your interests are protected when using our Services.
+### 13.4 Cumplimiento Legal
+Estamos comprometidos a cumplir con todas las leyes y regulaciones aplicables, incluidas aquellas relacionadas con la protección al consumidor, la privacidad de datos y el comercio electrónico. Si alguna disposición de estos Términos se considera inaplicable o inválida bajo cualquier ley aplicable, las disposiciones restantes seguirán siendo válidas y aplicables en la máxima medida permitida por la ley. Esto asegura que nuestros Términos sigan siendo efectivos y que sus derechos se mantengan incluso si ciertas disposiciones se consideran inválidas.
 
-### 13.4 Legal Compliance
-We are committed to complying with all applicable laws and regulations, including those related to consumer protection, data privacy, and electronic commerce. If any provision of these Terms is found to be unenforceable or invalid under any applicable law, the remaining provisions will continue to be valid and enforceable to the fullest extent permitted by law. This ensures that our Terms remain effective and that your rights are upheld even if certain provisions are deemed invalid.
+### 13.5 Resolución de Disputas
+En caso de cualquier disputa o reclamación que surja de o en conexión con estos Términos, le animamos a que primero nos contacte directamente para buscar una resolución amistosa. Puede comunicarse con nuestro equipo legal o con el Oficial de Protección de Datos utilizando la información de contacto proporcionada en estos Términos. Haremos todo lo posible para abordar sus preocupaciones y resolver el problema de manera justa y oportuna. Si no se puede alcanzar una resolución amistosa, puede proceder con acciones legales como se describe en la cláusula de jurisdicción anterior.
 
-### 13.5 Dispute Resolution
-In the event of any dispute or claim arising out of or in connection with these Terms, we encourage you to first contact us directly to seek an amicable resolution. You can reach out to our legal team or Data Protection Officer using the contact information provided in these Terms. We will make every effort to address your concerns and resolve the issue in a fair and timely manner. If an amicable resolution cannot be reached, you may then proceed with legal action as outlined in the jurisdiction clause above.
+### 13.6 Consideraciones Internacionales
+Para los usuarios ubicados fuera de España, tenga en cuenta que al utilizar nuestros Servicios, puede estar sometiéndose a las leyes y jurisdicción de España. Es su responsabilidad asegurarse de que su uso de nuestros Servicios cumpla con las leyes de su país de residencia. Si tiene alguna pregunta o inquietud sobre cómo se aplican estos Términos a usted, le recomendamos buscar asesoría legal para comprender mejor sus derechos y obligaciones.
 
-### 13.6 International Considerations
-For users located outside of Spain, please be aware that by using our Services, you may be subjecting yourself to the laws and jurisdiction of Spain. It is your responsibility to ensure that your use of our Services complies with the laws of your country of residence. If you have any questions or concerns about how these Terms apply to you, we recommend seeking legal advice to better understand your rights and obligations.
+### 13.7 Actualizaciones a la Ley Aplicable y Jurisdicción
+Nos reservamos el derecho de actualizar o modificar las cláusulas de ley aplicable y jurisdicción en estos Términos según sea necesario para reflejar cambios en los requisitos legales o nuestras prácticas comerciales. Cualquier actualización de este tipo se le comunicará a través de los métodos descritos en la sección "Cambios en los Términos" de estos Términos. Es importante revisar estas actualizaciones para mantenerse informado sobre cualquier cambio que pueda afectar su uso de nuestros Servicios.
 
-### 13.7 Updates to Governing Law and Jurisdiction
-We reserve the right to update or modify the governing law and jurisdiction clauses in these Terms as necessary to reflect changes in legal requirements or our business practices. Any such updates will be communicated to you through the methods outlined in the "Changes to Terms" section of these Terms. It is important to review these updates to stay informed about any changes that may affect your use of our Services.
+Al aceptar estos Términos y Condiciones, usted reconoce que ha leído, entendido y aceptado las disposiciones de ley aplicable y jurisdicción como se describe anteriormente. Si no está de acuerdo con estas disposiciones, no debe utilizar nuestros Servicios.
 
-By agreeing to these Terms and Conditions, you acknowledge that you have read, understood, and accepted the governing law and jurisdiction provisions as outlined above. If you do not agree with these provisions, you should not use our Services.
-## 14. Miscellaneous
+## 14. Misceláneos
 
-### 14.1 Severability
-In the event that any provision of these Terms and Conditions is found to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such invalidity, illegality, or unenforceability shall not affect the remaining provisions of these Terms and Conditions. The remaining provisions shall continue in full force and effect, and the invalid, illegal, or unenforceable provision shall be deemed modified to the minimum extent necessary to make it valid, legal, and enforceable. If such modification is not possible, the provision shall be deemed severed from these Terms and Conditions, and the remaining provisions shall be interpreted and enforced as if the invalid, illegal, or unenforceable provision had never been included.
+### 14.1 Divisibilidad
+En el caso de que cualquier disposición de estos Términos y Condiciones se considere inválida, ilegal o inaplicable por un tribunal de jurisdicción competente, dicha invalidez, ilegalidad o inaplicabilidad no afectará las disposiciones restantes de estos Términos y Condiciones. Las disposiciones restantes continuarán en pleno vigor y efecto, y la disposición inválida, ilegal o inaplicable se considerará modificada en la medida mínima necesaria para hacerla válida, legal y aplicable. Si tal modificación no es posible, la disposición se considerará separada de estos Términos y Condiciones, y las disposiciones restantes se interpretarán y aplicarán como si la disposición inválida, ilegal o inaplicable nunca hubiera sido incluida.
 
-### 14.2 Assignment
-We reserve the right to assign, transfer, or delegate any or all of our rights and obligations under these Terms and Conditions to any third party at our sole discretion, without any notice or consent required from you. This means that we may transfer our contractual rights and responsibilities to another entity, such as in the case of a merger, acquisition, or sale of assets. On the other hand, you, as a user of our Services, are not permitted to assign, transfer, or delegate any of your rights or obligations under these Terms and Conditions without our prior written consent. Any attempted assignment, transfer, or delegation by you without such consent shall be null and void and of no legal effect.
+### 14.2 Cesión
+Nos reservamos el derecho de ceder, transferir o delegar cualquiera o todos nuestros derechos y obligaciones bajo estos Términos y Condiciones a cualquier tercero a nuestra entera discreción, sin necesidad de notificación o consentimiento de su parte. Esto significa que podemos transferir nuestros derechos y responsabilidades contractuales a otra entidad, como en el caso de una fusión, adquisición o venta de activos. Por otro lado, usted, como usuario de nuestros Servicios, no tiene permitido ceder, transferir o delegar ninguno de sus derechos u obligaciones bajo estos Términos y Condiciones sin nuestro consentimiento previo por escrito. Cualquier intento de cesión, transferencia o delegación por su parte sin dicho consentimiento será nulo y sin efecto legal.
 
-### 14.3 Force Majeure
-Not liable for events beyond reasonable control.
+### 14.3 Fuerza Mayor
+No somos responsables por eventos fuera de nuestro control razonable.
 
-## 15. Contact Information
+## 15. Información de Contacto
 
 **Constant Wave Technologies S.L.**
-Calle Agustin de Foxa, 4
+Calle Agustín de Foxá, 4
 2B
 28036 MADRID
-SPAIN
-Email: legal@constantwave.tech
+ESPAÑA
+Correo electrónico: legal@constantwave.tech
 
 **CIF:** ESB19408350
 
-## 16. Language
+## 16. Idioma
 
-- These Terms are available in multiple languages
-- English version prevails in conflicts
-- Local translations provided for convenience
+- Estos Términos están disponibles en varios idiomas
+- La versión en inglés prevalece en caso de conflictos
+- Las traducciones locales se proporcionan para conveniencia
 
-Last Updated: November 8, 2024
+Última actualización: 8 de noviembre de 2024

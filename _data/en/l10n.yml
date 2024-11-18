@@ -8,7 +8,10 @@ header:
   links:
     games: "Games"
     team: "Team"
-    contact: "Contact&Support"
+    contact: "Contact & Support"
 
 team:
   title: "Our Team"
+
+games:
+  title: "Our Games"

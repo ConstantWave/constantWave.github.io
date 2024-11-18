@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to Constant Wave"
+title: "Bienvenidos a Constant Wave"
 image: images/wave.jpg
 permalink: /
 lang: es

@@ -5,6 +5,7 @@ permalink: /privacy-policy/
 lang: en
 page_id: privacy-policy
 ---
+
 **Effective Date:** November 8, 2024
 
 **Constant Wave Technologies S.L.** ("we", "us", "our") is a company registered in Spain with CIF: ESB19408350. We are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our mobile and desktop games. Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it.
