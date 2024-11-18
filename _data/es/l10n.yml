@@ -1,0 +1,14 @@
+footer:
+  copyright: "© 2024 Constant Wave. Todos los derechos reservados."
+  links:
+    privacy_policy: "Política de Privacidad"
+    terms_of_service: "Términos de Servicio"
+
+header:
+  links:
+    games: "Juegos"
+    team: "Equipo"
+    contact: "Contacto y Soporte"
+
+team:
+  title: "Nuestro Equipo"

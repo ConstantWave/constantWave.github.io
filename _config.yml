@@ -33,14 +33,24 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ConstWaveTech
 github_username: ConstantWave 
 
+languages: ["en", "es"]
+default_lang: "en"
+exclude_from_localization: ["_sass", "images"]
+parallel_localization: true
+
 collections:
-  - games
-  - team_members
+  games:
+    output: true
+    permalink: /:collection/:title/
+  team_members:
+    output: true
+    permalink: /:collection/:title/
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-polyglot
 
 # Exclude from processing.
 # The following items will not be processed, by default.

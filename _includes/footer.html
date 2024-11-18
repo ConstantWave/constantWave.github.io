@@ -13,29 +13,27 @@
       <rect x="86.8708" y="27.8711" width="26.129" height="26.129" rx="4" fill="#FFC499" />
     </svg>
   </div>
-
   <div class="social-links">
     <a href="mailto:info@constantwave.tech">
-      <img src="images/mail.svg" alt="Mail" width="24" height="24">
+      <img src="{{site.baseurl | append: '/'}}images/mail.svg" alt="Mail" width="24" height="24">
     </a>
     <a href="https://x.com/ConstWaveTech">
-      <img src="images/twitter.svg" alt="Twitter" width="24" height="24">
+      <img src="{{site.baseurl | append: '/'}}images/twitter.svg" alt="Twitter" width="24" height="24">
     </a>
     <a href="https://www.instagram.com/constantwavetech">
-      <img src="images/instagram.svg" alt="Instagram" width="24" height="24">
+      <img src="{{site.baseurl | append: '/' }}images/instagram.svg" alt="Instagram" width="24" height="24">
     </a>
     <!-- Pending Facebook page
     <a href="https://facebook.com/constantwave">
       !-->
-      <img src="images/facebook.svg" alt="Facebook" width="24" height="24">
+      <img src="{{site.baseurl | append: '/''}}images/facebook.svg" alt="Facebook" width="24" height="24">
   <!--
     </a>
     -->
   </div>
-
   <div class="footer-links">
-    <a href="/privacy-policy">Privacy Policy</a>•<a href="/terms-and-conditions">Terms and Conditions</a>
+    <a href="/privacy-policy">{{ site.data[site.active_lang].l10n.footer.links.privacy_policy }}</a>•<a href="/terms-and-conditions">{{ site.data[site.active_lang].l10n.footer.links.terms_of_service }}</a>
   </div>
 
-  <p>&copy; 2024 Constant Wave Technologies. All rights reserved.</p>
+  <p>{{ site.data[site.active_lang].l10n.footer.copyright }}</p>
 </footer>

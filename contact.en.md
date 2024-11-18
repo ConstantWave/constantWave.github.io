@@ -1,9 +1,11 @@
 ---
 layout: default
 title: "Contact Us"
+permalink: /contact/
+lang: en
+page_id: contact
 ---
 
-## Contact Us
 We are always here to help and answer any questions you may have. Feel free to reach out to us through any of the following contact points. We aim to respond to all inquiries as quickly as possible.
 
 ## General Inquiries

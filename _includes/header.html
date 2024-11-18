@@ -26,9 +26,19 @@
       </a>
 
       <ul>
-        <li><a href="/games">Games</a></li>
-        <li><a href="/team">Team</a></li>
-        <li><a href="/contact">Contact&Support</a></li>
+        <li><a href="/games">{{ site.data[site.active_lang].l10n.header.links.games }}</a></li>
+        <li><a href="/team">{{ site.data[site.active_lang].l10n.header.links.team }}</a></li>
+        <li><a href="/contact">{{ site.data[site.active_lang].l10n.header.links.contact }}</a></li>
+        {% for tongue in site.languages %}
+            {% if tongue != site.active_lang %}
+            <li>
+              <a href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}
+                      {% else %}{{site.baseurl}}/{{ tongue }}{{page.url}}{% endif %}" >
+                <img src="{{site.baseurl | append: '/images/flags/' | append: tongue }}.svg" height="24" width="36" alt="{{ tongue }}"> {{ tongue }}
+              </a>
+            </li>
+            {% endif %}
+        {% endfor %}
       </ul>
     </nav>
   </div>

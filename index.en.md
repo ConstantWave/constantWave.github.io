@@ -2,18 +2,14 @@
 layout: home
 title: "Welcome to Constant Wave"
 image: images/wave.jpg
+permalink: /
+lang: en
+page_id: index
 ---
-
-
 
 At Constant Wave, we transform innovative ideas into captivating gaming experiences. Founded in 2024, our company emerges as a creative force in the video game development industry, specializing in mobile and cross-platform titles that push the boundaries of the conventional.
 
-
-<div style="text-align: center; background-image: url('images/quuwords.svg'); background-size: contain; background-repeat: no-repeat; background-position: center; height: 60vh; display: flex; flex-direction: column; justify-content: flex-end;">
-  <div style="margin-bottom: 20px;">
-    <a href="https://apps.apple.com/us/app/qwords/id123456789" style="display: inline-block; padding: 10px 20px; background-color: #007aff; color: white; text-decoration: none; border-radius: 5px;">Play now</a>
-  </div>
-</div>
+{% include quuords_banner.html %}
 
 ## Our Vision
 

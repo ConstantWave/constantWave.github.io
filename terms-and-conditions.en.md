@@ -1,4 +1,10 @@
-# Terms and Conditions
+---
+layout: page
+title: Terms and Conditions
+permalink: /terms-and-conditions/
+lang: en
+page_id: terms-and-conditions
+---
 
 **Effective Date:** November 8, 2024
 
