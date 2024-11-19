@@ -2,7 +2,6 @@
 name: Quuwords
 image: /images/quuords.png
 appstore: https://apps.apple.com/us/app/quuords/id6737609238
-playstore: https://play.google.com/store/apps/details?id=tech.constantwave.quuords
 email: info@constantwave.tech
 lang: es
 page_id: quuords

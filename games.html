@@ -12,18 +12,21 @@ layout: default
       <dd>
         {{ game.content }}
         <ul class="stores">
-          <li>
-            <a href="{{ game.appstore }}">
-              
-                <img src="{{site.baseurl | append: '/'}}images/appstore.svg" alt="Download {{ game.name }} on the App Store">
-              
-            </a>
-          </li>
+          {% if game.googleplay %}
           <li>
             <a href="{{ game.googleplay }}">
                 <img src="{{site.baseurl | append: '/'}}images/googleplay.svg" alt="Download {{ game.name }} on Google Play">
             </a>
           </li>
+          {% endif %}
+          {% if game.appstore %}
+          <li>
+            <a href="{{ game.appstore }}">
+                <img src="{{site.baseurl | append: '/'}}images/appstore.svg" alt="Download {{ game.name }} on the App Store">
+            </a>
+          </li>
+          {% endif %}
+
         </ul>
         <strong>Support Email:</strong> <a href="mailto:{{ game.email }}">{{ game.email }}</a>
       </dd>
