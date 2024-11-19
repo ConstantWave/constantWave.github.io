@@ -1,4 +1,6 @@
 .site-header {
+  $mid-size: 800px;
+
   background-color: $header-background-color;
   position: sticky;
   top: 0;
@@ -14,6 +16,18 @@
 
   .nav-logo {
     display: block;
+
+    @media screen and (max-width: $mid-size) {
+      svg {
+        width: 180px;
+      }
+    }
+
+    @include media-query($on-palm) {
+      svg {
+        width: inherit;
+      }
+    }
   }
 
   .hamburger {
@@ -38,6 +52,11 @@
     margin: 0;
     @include relative-font-size(1.25);
 
+    @media screen and (max-width: $mid-size) {
+      gap: 0;
+      @include relative-font-size(1.1);
+    }
+
     a {
       display: block;
       line-height: $header-height;
@@ -59,13 +78,51 @@
       background-color: $header-background-color;
       flex-direction: column;
       gap: 0;
-      box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 
       a {
         padding: $spacing-unit $spacing-unit * 0.5;
         display: block;
         line-height: inherit;
       }
+    }
+  }
+
+  .languages {
+    $flag-size: 24px;
+
+    display: flex;
+    align-items: center;
+
+    @include media-query($on-palm) {
+      margin-bottom: $spacing-unit;
+    }
+
+    a {
+      text-align: center;
+      width: $flag-size + $spacing-unit * 0.25;
+      height: $flag-size + $spacing-unit * 0.25;
+      line-height: $flag-size + $spacing-unit * 0.25;
+      padding: $spacing-unit * 0.25;
+      opacity: 0.4;
+      border-radius: 50%;
+
+      &:hover,
+      &.active {
+        opacity: 1;
+      }
+
+      @include media-query($on-palm) {
+        padding: $spacing-unit * 0.5;
+      }
+    }
+
+    img {
+      width: $flag-size;
+      height: $flag-size;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 2px;
     }
   }
 }
