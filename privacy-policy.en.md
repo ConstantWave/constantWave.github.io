@@ -6,7 +6,7 @@ lang: en
 page_id: privacy-policy
 ---
 
-**Effective Date:** November 8, 2024
+**Effective Date:** November 19, 2024
 
 **Constant Wave Technologies S.L.** ("we", "us", "our") is a company registered in Spain with CIF: ESB19408350. We are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our mobile and desktop games. Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -75,7 +75,6 @@ We collect information to provide better services to our users. The types of inf
 - Device information and settings
 
 ### Technical Data
-- IP address
 - Device advertising ID
 - Operating system and version
 - Browser type and version
@@ -95,7 +94,7 @@ We use the information we collect for the following purposes:
 - To analyze usage patterns and optimize performance
 - To provide technical support
 
-## 3. Legal Basis for Processing (GDPR Compliance)
+## 3. Legal Basis for Processing
 
 We process your information based on the following legal grounds:
 
@@ -135,93 +134,38 @@ We implement appropriate technical and organizational measures to protect your d
 
 ## 6. Your Rights
 
-Your rights vary depending on your location and the applicable privacy laws. Below are your rights under major privacy regulations:
+You have certain rights in connection with your personal information and how we handle it.
 
-### European Union (GDPR)
+Those rights include:
 
-Under the General Data Protection Regulation (GDPR), you have the right to:
+**Right of access:** You have the right to request access to the personal information we hold about you. This allows you to receive a copy of the data we have collected and to check that we are lawfully processing it.
 
-- **Access** your personal data
-- **Rectify** inaccurate data
-- Request **erasure** ("right to be forgotten")
-- **Restrict** processing
-- **Data portability**
-- **Object** to processing
-- **Withdraw consent**
-- Lodge a **complaint** with a supervisory authority
+**Right to correct personal information:** If any of the personal information we hold about you is incorrect or incomplete, you have the right to request correction or completion. This ensures that your data is accurate and up-to-date.
 
-### California (CCPA/CPRA)
+**Right of erasure:** Also known as the "right to be forgotten," you can request the deletion of your personal information when there is no compelling reason for us to continue processing it. This right applies under certain circumstances, such as when the data is no longer necessary for the purposes for which it was collected.
 
-Under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA), California residents have the right to:
+**Account deactivation:** You have the right to deactivate your account with us. This will stop any further processing of your personal information associated with the account, although we may retain certain data as required by law or for legitimate business purposes.
 
-- **Know** what personal information is collected
-- **Delete** personal information
-- **Correct** inaccurate personal information
-- **Opt-out** of the sale of personal information
-- **Limit** the use of sensitive personal information
-- **Access** personal information
-- **Data portability**
-- **Non-discrimination** for exercising these rights
+**Data portability:** You have the right to request the transfer of your personal information to another service provider in a structured, commonly used, and machine-readable format. This allows you to move, copy, or transfer your data easily between different services.
 
-### Brazil (LGPD)
+**Restriction of processing:** You can request that we limit the processing of your personal information under certain circumstances, such as when you contest the accuracy of the data or object to our processing activities. This means we will only store your data and not process it further until the issue is resolved.
 
-Under the Lei Geral de Proteção de Dados (LGPD), Brazilian users have the right to:
+**Right to object:** You have the right to object to the processing of your personal information based on our legitimate interests or for direct marketing purposes. If you object, we will cease processing your data unless we can demonstrate compelling legitimate grounds for the processing that override your interests, rights, and freedoms.
 
-- **Confirmation** of processing
-- **Access** to data
-- **Correction** of incomplete or inaccurate data
-- **Anonymization**, blocking, or deletion of unnecessary data
-- **Data portability**
-- **Deletion** of personal data
-- Information about **sharing**
-- Information about **consent options**
-- **Revocation** of consent
+**Direct marketing opt out:** You can opt out of receiving direct marketing communications from us at any time. This includes promotional emails, newsletters, and other marketing materials. We will provide an easy way for you to unsubscribe from such communications.
 
-### Canada (PIPEDA)
+**Right to opt-out (USA):** Residents of certain US states have the right to opt out of the sale of their personal information. If you exercise this right, we will not sell your personal data to third parties.
 
-Under the Personal Information Protection and Electronic Documents Act (PIPEDA), Canadian users have the right to:
+**Right to lodge a complaint to the supervisory authority (EEA/UK/Canada):** If you believe that our processing of your personal information violates applicable data protection laws, you have the right to lodge a complaint with the relevant supervisory authority in your country of residence.
 
-- **Access** their personal information
-- **Challenge** the accuracy of personal information
-- **Withdraw consent**
-- **File a complaint** about compliance
+Residents of some US states may also designate an agent to make requests to exercise your rights as described above. This agent must be authorized to act on your behalf and may be required to provide proof of authorization.
 
-### Australia (Privacy Act)
-
-Under the Privacy Act 1988, Australian users have the right to:
-
-- Know **why** their personal information is being collected
-- Know **how** their information will be used
-- **Access** their personal information
-- **Correct** their personal information
-- Know which **organizations** will receive their information
-
-### China (PIPL)
-
-Under the Personal Information Protection Law (PIPL), users have the right to:
-
-- **Access and copy** their personal information
-- **Correct or supplement** their information
-- **Delete** their personal information
-- **Withdraw consent**
-- Receive **explanation** about processing rules
-- **Refuse** automated decision-making
-
-To exercise any of these rights, please contact us at:
+ To exercise any of these rights, please contact us at:
 
 - **Email**: info@constantwave.tech
 - **Data Protection Officer**: dpo@constantwave.tech
 
-We will respond to your request within the timeframe required by applicable law:
-
-- **GDPR**: 30 days
-- **CCPA/CPRA**: 45 days
-- **LGPD**: 15 days
-- **PIPEDA**: 30 days
-- **Privacy Act**: 30 days
-- **PIPL**: 15 days
-
-Note that some rights may be subject to limitations and exceptions under applicable laws. We may need to verify your identity before processing your request.
+We will respond to your request within the timeframe required by applicable law. Note that some rights may be subject to limitations and exceptions under applicable laws. We may need to verify your identity before processing your request.
 
 ## 7. International Data Transfers
 
@@ -261,7 +205,6 @@ For games that may appeal to children, we implement:
 - Age-appropriate privacy settings
 - Restricted social features
 - Limited data collection
-- No behavioral advertising
 - Clear privacy information in age-appropriate language
 - Parental controls for in-app purchases
 - Restricted third-party data sharing
@@ -278,11 +221,12 @@ When required, we obtain verifiable parental consent through:
 Parents/guardians can contact us regarding their children's privacy at:
 - Email: privacy@constantwave.tech
 - Data Protection Officer: dpo@constantwave.tech
-- Phone: [Insert Phone Number]
 
 We will respond to all parental requests within 48 hours.
 
 ## 9. Cookies and Tracking Technologies
+
+**Please note:** Cookies are currently disabled on our website. This means that no cookies, including essential, performance, functional, or targeting/advertising cookies, are being set or used at this moment. We will update our privacy policy and notify users if this changes in the future.
 
 ### 9.1 What Are Cookies
 Cookies are small text files that are stored on your device when you visit our website. We and our authorized partners also use similar technologies such as pixels, web beacons, and local storage.
@@ -346,7 +290,7 @@ Our cookie banner:
 ### 9.5 Cookie Settings
 You can manage your cookie preferences through:
 
-- Our Cookie Preference Center [Link]
+- Our Cookie Preference Center
 - Your browser settings
 - Third-party opt-out tools
 
@@ -367,8 +311,6 @@ Some cookies are placed by third-party services. We work with:
 For these cookies, please refer to the respective third parties' privacy policies:
 
 - Google Analytics: [Link]
-- Facebook: [Link]
-- [Other relevant third parties]
 
 ### 9.8 Cookie List
 A detailed list of all cookies we use is available in our Cookie Preference Center, including:

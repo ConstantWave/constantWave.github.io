@@ -6,7 +6,7 @@ lang: es
 page_id: privacy-policy
 ---
 
-**Fecha de Vigencia:** 8 de noviembre de 2024
+**Fecha de Vigencia:** 19 de noviembre de 2024
 
 **Constant Wave Technologies S.L.** ("nosotros", "nos", "nuestro") es una empresa registrada en España con CIF: ESB19408350. Estamos comprometidos a proteger y respetar su privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos, divulgamos y protegemos su información cuando visita nuestro sitio web y utiliza nuestros juegos móviles y de escritorio. Por favor, lea esta política cuidadosamente para entender nuestras opiniones y prácticas con respecto a sus datos personales y cómo los trataremos.
 
@@ -68,14 +68,13 @@ Recopilamos información para proporcionar mejores servicios a nuestros usuarios
 
 ### Datos de Uso
 - Progreso y logros en el juego
-- Compras en el juego y transacciones de moneda virtual
+- Compras dentro del juego y transacciones de moneda virtual
 - Uso de funciones y patrones de interacción
 - Métricas de rendimiento del juego
 - Duración y frecuencia de las sesiones
 - Información y configuraciones del dispositivo
 
 ### Datos Técnicos
-- Dirección IP
 - ID de publicidad del dispositivo
 - Sistema operativo y versión
 - Tipo y versión del navegador
@@ -95,9 +94,9 @@ Usamos la información que recopilamos para los siguientes propósitos:
 - Para analizar patrones de uso y optimizar el rendimiento
 - Para proporcionar soporte técnico
 
-## 3. Base Legal para el Procesamiento (Cumplimiento con el GDPR)
+## 3. Base Legal para el Procesamiento
 
-Procesamos su información con base en los siguientes fundamentos legales:
+Procesamos su información en base a los siguientes fundamentos legales:
 
 - **Consentimiento:** Cuando usted acepta explícitamente el procesamiento de sus datos
 - **Contrato:** Cuando el procesamiento es necesario para cumplir con nuestras obligaciones contractuales
@@ -135,100 +134,45 @@ Implementamos medidas técnicas y organizativas adecuadas para proteger sus dato
 
 ## 6. Sus Derechos
 
-Sus derechos varían según su ubicación y las leyes de privacidad aplicables. A continuación se presentan sus derechos bajo las principales regulaciones de privacidad:
+Usted tiene ciertos derechos en relación con su información personal y cómo la manejamos.
 
-### Unión Europea (GDPR)
+Estos derechos incluyen:
 
-Bajo el Reglamento General de Protección de Datos (GDPR), usted tiene derecho a:
+**Derecho de acceso:** Tiene derecho a solicitar acceso a la información personal que tenemos sobre usted. Esto le permite recibir una copia de los datos que hemos recopilado y verificar que los estamos procesando legalmente.
 
-- **Acceder** a sus datos personales
-- **Rectificar** datos inexactos
-- Solicitar la **eliminación** ("derecho al olvido")
-- **Restringir** el procesamiento
-- **Portabilidad de datos**
-- **Oponerse** al procesamiento
-- **Retirar el consentimiento**
-- Presentar una **queja** ante una autoridad supervisora
+**Derecho a corregir información personal:** Si alguna de la información personal que tenemos sobre usted es incorrecta o está incompleta, tiene derecho a solicitar su corrección o finalización. Esto asegura que sus datos sean precisos y estén actualizados.
 
-### California (CCPA/CPRA)
+**Derecho de eliminación:** También conocido como el "derecho al olvido", puede solicitar la eliminación de su información personal cuando no haya una razón convincente para que sigamos procesándola. Este derecho se aplica en ciertas circunstancias, como cuando los datos ya no son necesarios para los fines para los que fueron recopilados.
 
-Bajo la Ley de Privacidad del Consumidor de California (CCPA) y la Ley de Derechos de Privacidad de California (CPRA), los residentes de California tienen derecho a:
+**Desactivación de la cuenta:** Tiene derecho a desactivar su cuenta con nosotros. Esto detendrá cualquier procesamiento adicional de su información personal asociada con la cuenta, aunque podemos retener ciertos datos según lo requerido por la ley o para fines comerciales legítimos.
 
-- **Conocer** qué información personal se recopila
-- **Eliminar** información personal
-- **Corregir** información personal inexacta
-- **Optar por no participar** en la venta de información personal
-- **Limitar** el uso de información personal sensible
-- **Acceder** a información personal
-- **Portabilidad de datos**
-- **No discriminación** por ejercer estos derechos
+**Portabilidad de datos:** Tiene derecho a solicitar la transferencia de su información personal a otro proveedor de servicios en un formato estructurado, de uso común y legible por máquina. Esto le permite mover, copiar o transferir sus datos fácilmente entre diferentes servicios.
 
-### Brasil (LGPD)
+**Restricción del procesamiento:** Puede solicitar que limitemos el procesamiento de su información personal en ciertas circunstancias, como cuando impugna la exactitud de los datos o se opone a nuestras actividades de procesamiento. Esto significa que solo almacenaremos sus datos y no los procesaremos más hasta que se resuelva el problema.
 
-Bajo la Ley General de Protección de Datos (LGPD), los usuarios brasileños tienen derecho a:
+**Derecho a oponerse:** Tiene derecho a oponerse al procesamiento de su información personal basado en nuestros intereses legítimos o para fines de marketing directo. Si se opone, dejaremos de procesar sus datos a menos que podamos demostrar motivos legítimos convincentes para el procesamiento que anulen sus intereses, derechos y libertades.
 
-- **Confirmación** del procesamiento
-- **Acceso** a los datos
-- **Corrección** de datos incompletos o inexactos
-- **Anonimización**, bloqueo o eliminación de datos innecesarios
-- **Portabilidad de datos**
-- **Eliminación** de datos personales
-- Información sobre **compartición**
-- Información sobre **opciones de consentimiento**
-- **Revocación** del consentimiento
+**Exclusión de marketing directo:** Puede optar por no recibir comunicaciones de marketing directo de nosotros en cualquier momento. Esto incluye correos electrónicos promocionales, boletines y otros materiales de marketing. Proporcionaremos una forma fácil para que se dé de baja de dichas comunicaciones.
 
-### Canadá (PIPEDA)
+**Derecho a optar por no participar (EE. UU.):** Los residentes de ciertos estados de EE. UU. tienen derecho a optar por no participar en la venta de su información personal. Si ejerce este derecho, no venderemos sus datos personales a terceros.
 
-Bajo la Ley de Protección de Información Personal y Documentos Electrónicos (PIPEDA), los usuarios canadienses tienen derecho a:
+**Derecho a presentar una queja ante la autoridad de supervisión (EEE/Reino Unido/Canadá):** Si cree que nuestro procesamiento de su información personal viola las leyes de protección de datos aplicables, tiene derecho a presentar una queja ante la autoridad de supervisión correspondiente en su país de residencia.
 
-- **Acceder** a su información personal
-- **Desafiar** la exactitud de la información personal
-- **Retirar el consentimiento**
-- **Presentar una queja** sobre el cumplimiento
-
-### Australia (Ley de Privacidad)
-
-Bajo la Ley de Privacidad de 1988, los usuarios australianos tienen derecho a:
-
-- Saber **por qué** se recopila su información personal
-- Saber **cómo** se utilizará su información
-- **Acceder** a su información personal
-- **Corregir** su información personal
-- Saber qué **organizaciones** recibirán su información
-
-### China (PIPL)
-
-Bajo la Ley de Protección de Información Personal (PIPL), los usuarios tienen derecho a:
-
-- **Acceder y copiar** su información personal
-- **Corregir o complementar** su información
-- **Eliminar** su información personal
-- **Retirar el consentimiento**
-- Recibir **explicación** sobre las reglas de procesamiento
-- **Rechazar** la toma de decisiones automatizada
+Los residentes de algunos estados de EE. UU. también pueden designar a un agente para hacer solicitudes para ejercer sus derechos como se describe anteriormente. Este agente debe estar autorizado para actuar en su nombre y puede ser requerido para proporcionar prueba de autorización.
 
 Para ejercer cualquiera de estos derechos, por favor contáctenos en:
 
-- **Correo electrónico**: info@constantwave.tech
+- **Correo Electrónico**: info@constantwave.tech
 - **Oficial de Protección de Datos**: dpo@constantwave.tech
 
-Responderemos a su solicitud dentro del plazo requerido por la ley aplicable:
-
-- **GDPR**: 30 días
-- **CCPA/CPRA**: 45 días
-- **LGPD**: 15 días
-- **PIPEDA**: 30 días
-- **Ley de Privacidad**: 30 días
-- **PIPL**: 15 días
-
-Tenga en cuenta que algunos derechos pueden estar sujetos a limitaciones y excepciones bajo las leyes aplicables. Es posible que necesitemos verificar su identidad antes de procesar su solicitud.
+Responderemos a su solicitud dentro del plazo requerido por la ley aplicable. Tenga en cuenta que algunos derechos pueden estar sujetos a limitaciones y excepciones según las leyes aplicables. Es posible que necesitemos verificar su identidad antes de procesar su solicitud.
 
 ## 7. Transferencias Internacionales de Datos
 
 Transferimos datos internacionalmente en cumplimiento con:
 
 - Cláusulas Contractuales Tipo de la UE
-- Marco de Escudo de Privacidad (cuando sea aplicable)
+- Marco del Escudo de Privacidad (cuando sea aplicable)
 - Salvaguardias adecuadas según lo requerido por el GDPR
 
 ## 8. Privacidad de los Niños
@@ -237,7 +181,7 @@ Transferimos datos internacionalmente en cumplimiento con:
 Nos tomamos en serio la privacidad de los niños y cumplimos con varias regulaciones internacionales sobre la recopilación de información personal de menores:
 
 - **Estados Unidos (COPPA)**: No recopilamos intencionalmente información personal de niños menores de 13 años sin el consentimiento verificable de los padres.
-- **Unión Europea (GDPR)**: Para los usuarios en la UE, no procesamos datos personales de niños menores de 16 años sin el consentimiento de los padres/tutores. Esta edad puede ser menor en ciertos estados miembros de la UE, pero no será inferior a 13.
+- **Unión Europea (GDPR)**: Para usuarios en la UE, no procesamos datos personales de niños menores de 16 años sin el consentimiento de los padres/tutores. Esta edad puede ser menor en ciertos estados miembros de la UE, pero no será inferior a 13.
 - **Reino Unido (Código de Diseño Apropiado para la Edad)**: Implementamos protecciones especiales para usuarios menores de 18 años, incluyendo configuraciones de privacidad predeterminadas a alta privacidad.
 - **Brasil (LGPD)**: La recopilación de datos de niños (menores de 12 años) requiere el consentimiento específico de los padres.
 
@@ -247,23 +191,22 @@ Los padres o tutores legales tienen derecho a:
 - Solicitar la eliminación de la información personal de su hijo
 - Negarse a la recopilación o uso adicional de la información de su hijo
 - Proporcionar o revocar el consentimiento para funciones específicas
-- Controlar las compras en el juego y las funciones sociales
+- Controlar las compras dentro del juego y las funciones sociales
 
 ### 8.3 Recopilación y Uso de Datos de los Niños
-Si descubrimos que hemos recopilado información personal de un niño sin el consentimiento parental adecuado, procederemos a:
-1. Cesar inmediatamente la recopilación de cualquier información adicional
-2. Eliminar la información personal del niño de nuestros registros
-3. Deshabilitar cualquier función que pueda recopilar información personal
-4. Notificar a los padres/tutores sobre la recopilación de datos
+Si descubrimos que hemos recopilado información personal de un niño sin el consentimiento parental adecuado, nosotros:
+1. Dejaremos de recopilar cualquier información adicional de inmediato
+2. Eliminaremos la información personal del niño de nuestros registros
+3. Deshabilitaremos cualquier función que pueda recopilar información personal
+4. Notificaremos a los padres/tutores sobre la recopilación de datos
 
 ### 8.4 Protecciones Especiales
-Para los juegos que pueden atraer a los niños, implementamos:
+Para juegos que pueden atraer a niños, implementamos:
 - Configuraciones de privacidad apropiadas para la edad
 - Funciones sociales restringidas
 - Recopilación de datos limitada
-- No publicidad comportamental
-- Información clara sobre privacidad en un lenguaje apropiado para la edad
-- Controles parentales para compras en la aplicación
+- Información de privacidad clara en un lenguaje apropiado para la edad
+- Controles parentales para compras dentro de la aplicación
 - Compartición de datos de terceros restringida
 
 ### 8.5 Consentimiento Parental Verificable
@@ -276,13 +219,14 @@ Cuando sea necesario, obtenemos el consentimiento parental verificable a través
 
 ### 8.6 Información de Contacto para Padres
 Los padres/tutores pueden contactarnos sobre la privacidad de sus hijos en:
-- Correo electrónico: privacy@constantwave.tech
+- Correo Electrónico: privacy@constantwave.tech
 - Oficial de Protección de Datos: dpo@constantwave.tech
-- Teléfono: [Insertar Número de Teléfono]
 
 Responderemos a todas las solicitudes de los padres dentro de las 48 horas.
 
 ## 9. Cookies y Tecnologías de Seguimiento
+
+**Tenga en cuenta:** Las cookies están actualmente deshabilitadas en nuestro sitio web. Esto significa que no se están configurando ni utilizando cookies, incluidas las esenciales, de rendimiento, funcionales o de publicidad/objetivo, en este momento. Actualizaremos nuestra política de privacidad y notificaremos a los usuarios si esto cambia en el futuro.
 
 ### 9.1 Qué Son las Cookies
 Las cookies son pequeños archivos de texto que se almacenan en su dispositivo cuando visita nuestro sitio web. Nosotros y nuestros socios autorizados también utilizamos tecnologías similares como píxeles, balizas web y almacenamiento local.
@@ -298,10 +242,10 @@ Estas cookies son esenciales para el funcionamiento del sitio web y no se pueden
 - Funcionalidad básica del sitio web
 - Balanceo de carga
 
-Estas cookies no almacenan ninguna información personal identificable.
+Estas cookies no almacenan ninguna información de identificación personal.
 
 #### 9.2.2 Cookies de Rendimiento (Requieren Consentimiento)
-Estas cookies nos ayudan a entender cómo los visitantes interactúan con nuestro sitio web al recopilar información anónima:
+Estas cookies nos ayudan a comprender cómo los visitantes interactúan con nuestro sitio web al recopilar información anónima:
 
 - Datos de análisis (Google Analytics)
 - Informes de errores
@@ -309,7 +253,7 @@ Estas cookies nos ayudan a entender cómo los visitantes interactúan con nuestr
 - Patrones de comportamiento del usuario
 
 #### 9.2.3 Cookies Funcionales (Requieren Consentimiento)
-Estas cookies habilitan funciones mejoradas:
+Estas cookies permiten una funcionalidad mejorada:
 
 - Preferencias de idioma
 - Configuraciones del juego
@@ -327,7 +271,7 @@ Estas cookies se utilizan con fines de marketing:
 ### 9.3 Consentimiento de Cookies
 De acuerdo con la ley de la UE:
 
-- Obtenemos consentimiento explícito antes de establecer cookies no esenciales
+- Obtenemos consentimiento explícito antes de configurar cookies no esenciales
 - Proporcionamos controles granulares de cookies
 - Los usuarios pueden modificar su consentimiento en cualquier momento
 - Repetimos las solicitudes de consentimiento anualmente o después de cambios significativos
@@ -346,7 +290,7 @@ Nuestro banner de cookies:
 ### 9.5 Configuración de Cookies
 Puede gestionar sus preferencias de cookies a través de:
 
-- Nuestro Centro de Preferencias de Cookies [Enlace]
+- Nuestro Centro de Preferencias de Cookies
 - La configuración de su navegador
 - Herramientas de exclusión de terceros
 
@@ -367,8 +311,6 @@ Algunas cookies son colocadas por servicios de terceros. Trabajamos con:
 Para estas cookies, consulte las políticas de privacidad de los terceros respectivos:
 
 - Google Analytics: [Enlace]
-- Facebook: [Enlace]
-- [Otros terceros relevantes]
 
 ### 9.8 Lista de Cookies
 Una lista detallada de todas las cookies que utilizamos está disponible en nuestro Centro de Preferencias de Cookies, incluyendo:
@@ -392,15 +334,16 @@ Revisamos y actualizamos regularmente nuestras prácticas de cookies. Los cambio
 
 ### 9.11 Información de Contacto
 Para preguntas sobre nuestras prácticas de cookies:
-- Correo electrónico: privacy@constantwave.tech
+- Correo Electrónico: privacy@constantwave.tech
 - DPO: dpo@constantwave.tech
+
 ## 10. Cambios a Esta Política de Privacidad
 
 Le notificaremos sobre cambios materiales a esta política a través de:
 
 - Notificación por correo electrónico (si tenemos su información de contacto)
 - Aviso en nuestro sitio web
-- Notificaciones en el juego
+- Notificaciones dentro del juego
 
 ## 11. Contáctenos
 
@@ -409,12 +352,12 @@ Calle Agustín de Foxá, 4
 2B
 28036 MADRID
 ESPAÑA
-Correo electrónico: info@constantwave.tech
+Correo Electrónico: info@constantwave.tech
 
-**Delegado de Protección de Datos:**
-Correo electrónico: dpo@constantwave.tech
+**Oficial de Protección de Datos:**
+Correo Electrónico: dpo@constantwave.tech
 
-## 12. Autoridad de Supervisión
+## 12. Autoridad Supervisora
 
 Tiene derecho a presentar una queja ante una autoridad de supervisión. En España, la autoridad competente es:
 

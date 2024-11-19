@@ -212,36 +212,12 @@ If you violate any of the prohibited activities outlined above, you may face a r
 - **Designated DMCA Agent Contact Information:** You can send your DMCA notice to our designated agent at the following address:
   - **Email:** dmca@constantwave.tech
   - **Mail:** Constant Wave Technologies, Attn: DMCA Agent, Calle Agustin de Foxa, 4, 2B, 28036 MADRID, SPAIN
-- **Action Upon Receipt of DMCA Notice:** Upon receipt of a valid DMCA notice, we will promptly investigate the claim and take appropriate action, which may include removing or disabling access to the allegedly infringing material. We will also notify the user who posted the material that a DMCA notice has been received and that the material has been removed or access to it has been disabled.
+- **Action Upon Receipt of DMCA Notice:** Upon receipt of a valid DMCA notice, we will promptly investigate the claim and take appropriate action, which may include removing or disabling access to the allegedly infringing material.
 
 ## 9. Privacy and Data Protection
 
-### 9.1 Data Collection and Use
-We are committed to protecting your privacy and ensuring that your personal data is collected and used in accordance with our Privacy Policy. Our Privacy Policy provides detailed information on the types of data we collect, how we use it, and the measures we take to safeguard your information. By using our Services, you agree to the collection and use of your data as described in our Privacy Policy.
+Our commitment to your privacy is outlined in our Privacy Policy, which can be found at [https://constantwave.tech/privacy-policy/](https://constantwave.tech/privacy-policy/). This policy explains how we collect, use, disclose, and protect your personal information when you use our Services. By using our Services, you agree to the collection and use of your information in accordance with our Privacy Policy. We encourage you to review the Privacy Policy to understand our practices and your rights regarding your personal data.
 
-### 9.2 Compliance with GDPR and Other Applicable Laws
-We comply with the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA/CPRA), Brazil's Lei Geral de Proteção de Dados (LGPD), Canada's Personal Information Protection and Electronic Documents Act (PIPEDA), Australia's Privacy Act, China's Personal Information Protection Law (PIPL), and other applicable data protection laws to ensure that your personal data is processed lawfully, fairly, and transparently. This includes implementing appropriate technical and organizational measures to protect your data from unauthorized access, disclosure, alteration, or destruction. We also adhere to data minimization principles, ensuring that we only collect and process the data necessary for the purposes outlined in our Privacy Policy.
-
-### 9.3 User Rights Regarding Personal Data
-As a user, you have certain rights regarding your personal data, which may vary depending on your location and the applicable data protection laws. These rights include, but are not limited to:
-
-- **Right to Access:** You have the right to request access to the personal data we hold about you and to receive information about how we process it.
-- **Right to Rectification:** You have the right to request the correction of any inaccurate or incomplete personal data we hold about you.
-- **Right to Erasure:** You have the right to request the deletion of your personal data under certain circumstances, such as when the data is no longer necessary for the purposes for which it was collected or when you withdraw your consent.
-- **Right to Restrict Processing:** You have the right to request the restriction of processing your personal data under certain conditions, such as when you contest the accuracy of the data or object to the processing.
-- **Right to Data Portability:** You have the right to receive your personal data in a structured, commonly used, and machine-readable format and to request the transfer of your data to another controller.
-- **Right to Object:** You have the right to object to the processing of your personal data for direct marketing purposes or when the processing is based on our legitimate interests.
-- **Right to Withdraw Consent:** If we process your personal data based on your consent, you have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal.
-
-To exercise any of these rights, please refer to our Privacy Policy for detailed instructions on how to submit a request. We will respond to your request within the timeframe required by applicable law and may need to verify your identity before processing your request.
-
-### 9.4 Contact Information
-If you have any questions, concerns, or inquiries about our privacy practices, the way we handle your personal data, or your rights regarding your personal data, please do not hesitate to reach out to us. We value your privacy and are here to assist you with any issues or questions you may have. You can contact us through the following means:
-
-- **Email:** For general privacy-related questions or concerns, please email us at privacy@constantwave.tech. Our privacy team will review your inquiry and respond as soon as possible.
-- **Data Protection Officer:** For more specific or sensitive matters, you may contact our Data Protection Officer directly at dpo@constantwave.tech. Our Data Protection Officer is responsible for overseeing our data protection strategy and ensuring compliance with relevant data protection laws.
-
-We are committed to addressing your inquiries and resolving any issues related to your privacy and data protection promptly and effectively. Our team will make every effort to provide you with a comprehensive and satisfactory response. Your privacy is of utmost importance to us, and we strive to ensure that your personal data is handled with the highest level of care and transparency.
 ## 10. Disclaimers and Limitations
 
 ### 10.1 Warranty Disclaimer
@@ -323,9 +299,8 @@ In the event that any provision of these Terms and Conditions is found to be inv
 
 ### 14.2 Assignment
 We reserve the right to assign, transfer, or delegate any or all of our rights and obligations under these Terms and Conditions to any third party at our sole discretion, without any notice or consent required from you. This means that we may transfer our contractual rights and responsibilities to another entity, such as in the case of a merger, acquisition, or sale of assets. On the other hand, you, as a user of our Services, are not permitted to assign, transfer, or delegate any of your rights or obligations under these Terms and Conditions without our prior written consent. Any attempted assignment, transfer, or delegation by you without such consent shall be null and void and of no legal effect.
-
 ### 14.3 Force Majeure
-Not liable for events beyond reasonable control.
+We shall not be held liable for any failure or delay in the performance of our obligations under these Terms if such failure or delay is caused by events beyond our reasonable control. These events include, but are not limited to, natural disasters, acts of God, war, terrorism, civil unrest, government actions, labor strikes, pandemics, and any other unforeseen circumstances that prevent us from fulfilling our obligations. In such cases, our obligations will be suspended for the duration of the event, and we will make reasonable efforts to resume performance as soon as possible.
 
 ## 15. Contact Information
 
