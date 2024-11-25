@@ -11,24 +11,19 @@ page_id: privacy-policy
 **Constant Wave Technologies S.L.** ("nosotros", "nos", "nuestro") es una empresa registrada en España con CIF: ESB19408350. Estamos comprometidos a proteger y respetar su privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos, divulgamos y protegemos su información cuando visita nuestro sitio web y utiliza nuestros juegos móviles y de escritorio. Por favor, lea esta política cuidadosamente para entender nuestras opiniones y prácticas con respecto a sus datos personales y cómo los trataremos.
 
 ## Tabla de Contenidos
+
 1. [Información que Recopilamos](#1-información-que-recopilamos)
     - [Datos Personales](#datos-personales)
     - [Datos de Uso](#datos-de-uso)
     - [Datos Técnicos](#datos-técnicos)
 2. [Cómo Usamos su Información](#2-cómo-usamos-su-información)
-3. [Base Legal para el Procesamiento (Cumplimiento con el GDPR)](#3-base-legal-para-el-procesamiento-cumplimiento-con-el-gdpr)
+3. [Base Legal para el Procesamiento](#3-base-legal-para-el-procesamiento)
 4. [Compartición y Divulgación de Datos](#4-compartición-y-divulgación-de-datos)
     - [Proveedores de Servicios de Terceros](#proveedores-de-servicios-de-terceros)
     - [Requisitos Legales](#requisitos-legales)
     - [Transferencias Comerciales](#transferencias-comerciales)
 5. [Seguridad de los Datos](#5-seguridad-de-los-datos)
 6. [Sus Derechos](#6-sus-derechos)
-    - [Unión Europea (GDPR)](#unión-europea-gdpr)
-    - [California (CCPA/CPRA)](#california-ccpa-cpra)
-    - [Brasil (LGPD)](#brasil-lgpd)
-    - [Canadá (PIPEDA)](#canadá-pipeda)
-    - [Australia (Ley de Privacidad)](#australia-ley-de-privacidad)
-    - [China (PIPL)](#china-pipl)
 7. [Transferencias Internacionales de Datos](#7-transferencias-internacionales-de-datos)
 8. [Privacidad de los Niños](#8-privacidad-de-los-niños)
     - [Restricciones de Edad](#81-restricciones-de-edad)
