@@ -9,7 +9,7 @@ page_id: index
 
 En Constant Wave, transformamos ideas innovadoras en experiencias de juego cautivadoras. Fundada en 2024, nuestra empresa surge como una fuerza creativa en la industria del desarrollo de videojuegos, especializándose en títulos móviles y multiplataforma que desafían los límites de lo convencional.
 
-{% include quuords_banner.html %}
+{% include wordbusters_banner.html %}
 
 ## Nuestra Visión
 

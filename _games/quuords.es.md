@@ -1,5 +1,6 @@
 ---
 name: Quuords
+order: 20
 image: /images/quuords.png
 appstore: https://apps.apple.com/us/app/quuords/id6737609238
 email: info@constantwave.tech
