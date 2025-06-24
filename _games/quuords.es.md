@@ -1,7 +1,10 @@
 ---
+layout: game
+permalink: /games/quuords
 name: Quuords
 order: 20
 image: /images/quuords.png
+banner: /images/quuords.png
 appstore: https://apps.apple.com/us/app/quuords/id6737609238
 email: info@constantwave.tech
 lang: es

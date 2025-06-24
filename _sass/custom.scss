@@ -68,17 +68,21 @@
     @include relative-font-size(1.5);
     font-weight: 500;
     margin-bottom: $spacing-unit * 0.5;
-  }
 
-  .stores {
-    display: flex;
-    gap: $spacing-unit;
-    list-style: none;
-    margin: 0 0 $spacing-unit;
-
-    img {
-      width: 140px;
-      height: auto;
+    a {
+      color: $text-color;
     }
+  }
+}
+
+.stores {
+  display: flex;
+  gap: $spacing-unit;
+  list-style: none;
+  margin: 0 0 $spacing-unit;
+
+  img {
+    width: 140px;
+    height: auto;
   }
 }

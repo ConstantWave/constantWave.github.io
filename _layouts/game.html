@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<h1>{{ page.name | default: page.title }}</h1>
+
+<img src="{{ page.banner }}" alt="{{ page.name }}">
+
+<p>
+  {{ page.content }}
+</p>
+<ul class="stores">
+  {% if page.googleplay %}
+  <li>
+    <a href="{{ page.googleplay }}">
+      <img src="{{site.baseurl | append: '/'}}images/googleplay.svg" alt="Download {{ page.name }} on Google Play">
+    </a>
+  </li>
+  {% endif %}
+  {% if page.appstore %}
+  <li>
+    <a href="{{ page.appstore }}">
+      <img src="{{site.baseurl | append: '/'}}images/appstore.svg" alt="Download {{ page.name }} on the App Store">
+    </a>
+  </li>
+  {% endif %}
+</ul>
