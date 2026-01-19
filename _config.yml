@@ -20,7 +20,7 @@
 
 domain: constantwave.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://constantwave.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /      # place folder name if the site is served in a subfolder
+baseurl: ""                         # place folder name if the site is served in a subfolder, leave empty if the site is served at the root
 
 title: Welcome to Constant Wave
 email: info@constantwave.tech
@@ -29,7 +29,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   engaging and innovative games for mobile and desktop platforms. We're 
   dedicated to delivering awesome gaming experiences that captivate players 
   across all devices.
-baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ConstWaveTech
 github_username: ConstantWave 
 

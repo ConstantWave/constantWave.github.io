@@ -1,0 +1,8 @@
+url: http://127.0.0.1:4000
+baseurl: ""
+host: 127.0.0.1
+port: 4000
+livereload: true
+livereload_host: 127.0.0.1
+livereload_port: 35729
+parallel_localization: false
