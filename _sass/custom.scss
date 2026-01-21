@@ -278,11 +278,18 @@ a[disabled] {
     overflow: hidden;
     border-radius: 16px;
     border: 1px solid rgba($text-color, 0.5);
+    
+    @include media-query($on-palm) {
+      background-color: #002;
+      flex-direction: column;
+      align-items: center;
+    }
   }
 
   dl {
-    padding: 16px;
-
+    padding: 16px 16px 32px;
+    margin: 0;
+    background-color: $background-color;
   }
 
   dt {
