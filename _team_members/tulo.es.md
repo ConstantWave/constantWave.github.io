@@ -1,6 +1,6 @@
 ---
 name: Tulo
-image: /images/tulo.jpg
+image: /images/team/tulo.jpg
 email: tulo@constantwave.tech
 lang: es
 page_id: tulo

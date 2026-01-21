@@ -1,26 +1,37 @@
 ---
 layout: default
 ---
-<h1>{{ page.name | default: page.title }}</h1>
+<div class="wrapper">
+  <header class="page-header">
+    <h1>{{ page.name | escape }}</h1>
+    <h2>{{ page.subtitle | escape }}</h2>
+    <p>{{ page.description | escape }}</p>
+  </header>
 
-<img src="{{ page.banner }}" alt="{{ page.name }}">
+  <img src="{{ page.banner }}" alt="{{ page.name }}" class="game-banner">
 
-<p>
   {{ page.content }}
-</p>
-<ul class="stores">
-  {% if page.googleplay %}
-  <li>
-    <a href="{{ page.googleplay }}">
-      <img src="{{site.baseurl | append: '/'}}images/googleplay.svg" alt="Download {{ page.name }} on Google Play">
-    </a>
-  </li>
-  {% endif %}
-  {% if page.appstore %}
-  <li>
-    <a href="{{ page.appstore }}">
-      <img src="{{site.baseurl | append: '/'}}images/appstore.svg" alt="Download {{ page.name }} on the App Store">
-    </a>
-  </li>
-  {% endif %}
-</ul>
+
+  <ul class="stores">
+    {% if page.googleplay %}
+    <li>
+      <a href="{{ page.googleplay }}" {% if page.googleplay == "#" %}disabled aria-disabled="true"{% endif %}>
+        <img src="{{site.baseurl | append: '/'}}images/googleplay.svg" alt="Download {{ page.name }} on Google Play">
+      </a>
+    </li>
+    {% endif %}
+    {% if page.appstore %}
+    <li>
+      <a href="{{ page.appstore }}" {% if page.appstore == "#" %}disabled aria-disabled="true"{% endif %}>
+        <img src="{{site.baseurl | append: '/'}}images/appstore.svg" alt="Download {{ page.name }} on the App Store">
+      </a>
+    </li>
+    {% endif %}
+  </ul>
+
+  <h3>{{ site.data[site.active_lang].l10n.game.more_games }}</h3>
+
+  {% assign games = site.games | where_exp: "game", "game.page_id != page.page_id" | sort: 'order' | reversed  %}
+  {% include game-cards.html %}
+
+</div>

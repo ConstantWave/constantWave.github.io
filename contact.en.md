@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Contact Us"
+subtitle: Have a question, feedback, or just want to say hi?
+description: We are always here to help and answer any questions you may have. Feel free to reach out to us through any of the following contact points. We aim to respond to all inquiries as quickly as possible.
 permalink: /contact/
 lang: en
 page_id: contact
 ---
-
-We are always here to help and answer any questions you may have. Feel free to reach out to us through any of the following contact points. We aim to respond to all inquiries as quickly as possible.
 
 ## General Inquiries
 For general questions or information about our services, please contact us at:

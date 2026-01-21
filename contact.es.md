@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Ponte en contacto con nosotros"
+subtitle: ¿Tienes una pregunta, comentario o simplemente quieres saludar?
+description: Siempre estamos aquí para ayudar y responder cualquier pregunta que pueda tener. No dude en comunicarse con nosotros a través de cualquiera de los siguientes puntos de contacto. Nos esforzamos por responder a todas las consultas lo más rápido posible.
 permalink: /contact/
 lang: es
 page_id: contact
 ---
-
-Siempre estamos aquí para ayudar y responder cualquier pregunta que pueda tener. No dude en comunicarse con nosotros a través de cualquiera de los siguientes puntos de contacto. Nos esforzamos por responder a todas las consultas lo más rápido posible.
 
 ## Consultas Generales
 Para preguntas generales o información sobre nuestros servicios, por favor contáctenos en:

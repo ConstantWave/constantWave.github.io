@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Privacy Policy
+subtitle: Your data matters. We keep things simple and transparent.
+description: This page explains what personal data we collect, why we collect it, and how we use it. We only gather what’s strictly necessary and we never do anything weird with your information.
 permalink: /privacy-policy/
 lang: en
 page_id: privacy-policy

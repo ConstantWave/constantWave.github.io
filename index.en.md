@@ -1,34 +1,23 @@
 ---
 layout: home
-title: "Welcome to Constant Wave"
-image: images/wave.jpg
+title: Constant Wave Games
+hero: Transforming innovative ideas into captivating gaming experiences.
+subtitle: Founded in 2024, we focus on sharp gameplay, clean design, and memorable experiences that push beyond the expected.
 permalink: /
 lang: en
 page_id: index
 ---
 
-At Constant Wave, we transform innovative ideas into captivating gaming experiences. Founded in 2024, our company emerges as a creative force in the video game development industry, specializing in mobile and cross-platform titles that push the boundaries of the conventional.
+### Next Releases
 
-{% include wordbusters_banner.html %}
+These are the games we’re currently building — bigger, bolder, and shaped by everything we’ve learned so far. New worlds, more personality, and the same focus on fun gameplay.
 
-## Our Vision
+{% assign games = site.games | where: "status", "coming-soon" | sort: 'order' | reversed %}
+{% include game-cards.html %}
 
-We believe that each technological wave brings new opportunities to create unique experiences. We ride the crest of innovation, combining creativity and technical excellence to develop games that not only entertain but also inspire.
+### Available Now
 
-## What We Do
+Before jumping into bigger worlds, we built a couple of small games to explore ideas, mechanics, and platforms. Simple, fun, and straight to the point.
 
-- Immersive mobile games that fit in your pocket
-- Breaking barriers with cross-platform experiences
-- Challenging genre conventions with innovative titles
-- Leveraging the latest technologies for gaming solutions
-
-## Our Commitment
-
-At Constant Wave, we are committed to:
-
-- Developing games that captivate and entertain
-- Maintaining the highest quality standards
-- Creating accessible experiences for players of all levels
-- Constantly innovating in the world of video game development
-
-Join us on this exciting adventure as we redefine the future of gaming.
+{% assign games = site.games | where: "status", "published" | sort: 'order' | reversed %}
+{% include game-cards.html %}

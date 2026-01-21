@@ -3,8 +3,12 @@ layout: game
 permalink: /games/wordbusters
 name: Wordbusters
 order: 10
-image: /images/wordbusters.png
-banner: /images/wordbusters-banner.png
+status: published
+card: /images/wordbusters/wordbusters-card.png
+icon: /images/wordbusters/wordbusters-icon@256.png
+banner: /images/wordbusters/wordbusters-banner.png
+subtitle: A crossword meets word-search puzzle with daily challenges.
+description: Quick word puzzles designed for short sessions and sharp minds.
 googleplay: https://play.google.com/store/apps/details?id=tech.constantwave.wordbusters
 appstore: https://apps.apple.com/us/app/wordbusters/id6737838684
 email: info@constantwave.tech
