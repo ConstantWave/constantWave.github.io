@@ -24,3 +24,15 @@ bundle exec jekyll serve \
   --force_polling \
   --config _config.yml,_config_dev.yml
 ```
+
+## Scaling Screenshots
+
+Copy the original screenshots to their folders, and then, from its directory, run:
+
+```bash
+mogrify -resize 256x *.png
+```
+
+```bash
+mogrify -resize x256 *.png
+```

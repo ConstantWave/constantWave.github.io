@@ -11,4 +11,6 @@ header:
     contact: "Contact & Support"
 
 game:
+  screenshots: "This is how the game looks like"
+  stores: "Download now on the stores"
   more_games: "More Games"

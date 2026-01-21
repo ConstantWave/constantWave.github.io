@@ -11,6 +11,13 @@ icon: /images/abduction/abduction-icon@256.png
 banner: /images/abduction/abduction-banner@512.png
 subtitle: A cult-classic arcade platformer, reborn for modern platforms.
 description: A fast, frantic arcade platformer with pure retro energy and a modern touch.
+screenshots:
+  mobile_landscape:
+    - /images/abduction/00_intro-en.png
+    - /images/abduction/01_menu-en.png
+    - /images/abduction/02_level.png
+    - /images/abduction/03_submarine.png
+    - /images/abduction/04_rainy.png
 googleplay: "#"
 appstore: "#"
 steamstore: "#"
