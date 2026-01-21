@@ -8,12 +8,12 @@ lang: en
 page_id: games
 ---
 
-### Available Now
-
-{% assign games = site.games | where: "status", "published" | sort: 'order' | reversed %}
-{% include game-cards.html %}
-
 ### Coming Soon
 
 {% assign games = site.games | where: "status", "coming-soon" | sort: 'order' | reversed %}
+{% include game-cards.html %}
+
+### Available Now
+
+{% assign games = site.games | where: "status", "published" | sort: 'order' | reversed %}
 {% include game-cards.html %}
