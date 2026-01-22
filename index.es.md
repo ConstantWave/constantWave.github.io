@@ -3,6 +3,7 @@ layout: home
 title: Constant Wave Games
 hero: Transformamos ideas innovadoras en experiencias de juego cautivadoras.
 subtitle: Fundada en 2024, nos centramos en una jugabilidad precisa, un diseño limpio y experiencias memorables que van más allá de lo esperado.
+games_cta: "Explora nuestros juegos"
 permalink: /
 lang: es
 page_id: index
