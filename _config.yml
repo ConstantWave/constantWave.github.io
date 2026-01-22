@@ -44,9 +44,10 @@ collections:
   team_members:
     output: true
     permalink: /:collection/:title/
+  team_collaborators:
+    output: false
   researches:
-    output: true
-    permalink: /:collection/:title/
+    output: false
 
 # Build settings
 theme: minima

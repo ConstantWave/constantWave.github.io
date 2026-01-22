@@ -8,3 +8,9 @@ lang: es
 page_id: team
 ---
 {% include team-members.html %}
+
+### Colaboradores
+
+Aunque Constant Wave es un estudio pequeño, no trabajamos solos. Colaboramos con artistas, músicos y otros profesionales increíbles que aportan su creatividad y experiencia a nuestros proyectos.
+
+{% include team-collaborators.html %}

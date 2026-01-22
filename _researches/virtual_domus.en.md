@@ -1,6 +1,4 @@
 ---
-layout: research
-permalink: /research/virtual-domus
 entity: "Universidad Rey Juan Carlos"
 collaborator: /images/virtual-domus/virtual-domus-entity.png
 icon: /images/virtual-domus/virtual-domus-icon.png
