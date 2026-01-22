@@ -4,10 +4,11 @@
       <nav>
         <a href="/">Constant Wave Technologies</a>
         <ul>
-          <li><a href="/games">{{ site.data[site.active_lang].l10n.header.links.games }}</a></li>
-          <li><a href="/team">{{ site.data[site.active_lang].l10n.header.links.team }}</a></li>
-          <li><a href="/researches">{{ site.data[site.active_lang].l10n.header.links.research }}</a></li>
-          <li><a href="/contact">{{ site.data[site.active_lang].l10n.header.links.contact }}</a></li>
+          {% assign links = site.data[site.active_lang].l10n.header.links %}
+          <li><a href="/games">{{ links.games }}</a></li>
+          <li><a href="/team">{{ links.team }}</a></li>
+          <li><a href="/researches">{{ links.research }}</a></li>
+          <li><a href="/contact">{{ links.contact }}</a></li>
           <li class="languages">
             {% for tongue in site.languages %}
             <a {% if tongue==site.active_lang %}class="active" {% endif %} href="{% if tongue == site.default_lang %}{{site.baseurl}}{{page.url}}
