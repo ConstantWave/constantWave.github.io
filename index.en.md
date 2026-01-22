@@ -21,3 +21,12 @@ Before jumping into bigger worlds, we built a couple of small games to explore i
 
 {% assign games = site.games | where: "status", "published" | sort: 'order' | reversed %}
 {% include game-cards.html %}
+
+### Beyond Games
+
+We also collaborate on research projects applying interactive technology and mixed reality beyond entertainment.
+
+{% assign researches = site.researches | sort: 'order' | reversed %}
+{% include research-collaborators.html %}
+
+[Learn more about our research collaborations →](/researches)

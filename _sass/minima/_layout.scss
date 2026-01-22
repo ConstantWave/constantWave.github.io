@@ -48,6 +48,10 @@
       line-height: 22px;
       font-weight: 500;
 
+      @include media-query($on-laptop) {
+        gap: 16px;
+      }
+
       a {
         display: block;
         color: $text-color;

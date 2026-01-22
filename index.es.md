@@ -21,3 +21,12 @@ Antes de dar el salto a mundos más grandes, hicimos un par de juegos pequeños 
 
 {% assign games = site.games | where: "status", "published" | sort: 'order' | reversed %}
 {% include game-cards.html %}
+
+### Más allá de los juegos
+
+También colaboramos en proyectos de investigación que aplican tecnología interactiva y realidad mixta más allá del entretenimiento.
+
+{% assign researches = site.researches | sort: 'order' | reversed %}
+{% include research-collaborators.html %}
+
+[Más sobre nuestras colaboraciones en investigación →](/researches)

@@ -1,0 +1,7 @@
+<ul class="research-collaborators">
+  {% for research in researches %}
+  <li>
+    <img src="{{ research.collaborator }}" alt="{{ research.entity }}">
+  </li>
+  {% endfor %}
+</ul>

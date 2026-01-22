@@ -1,0 +1,14 @@
+<ul class="research-cards">
+  {% for research in researches %}
+  <li>
+    <img src="{{ research.icon }}" alt="{{ research.name }}">
+    <dl>
+      <dt>{{ research.name }}</dt>
+      <dd>
+        {{ research.content }}
+        <img src="{{ research.collaborator }}" alt="{{ research.entity }}">
+      </dd>
+    </dl>
+  </li>
+  {% endfor %}
+</ul>
