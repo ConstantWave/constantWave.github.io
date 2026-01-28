@@ -1,0 +1,30 @@
+<ul class="game-cards">
+  {% for game in games %}
+  <li>
+    <header style="background-image: url('{{ game.card }}');">
+    </header>
+    <div class="game-card-content">
+      <img src="{{ game.icon }}" alt="{{ game.name }}">
+      <a href="{{ game.url }}">{{ game.name }}</a>
+      <p>{{ game.subtitle }}</p>
+      <ul class="platforms">
+        {% if game.googleplay %}
+        <li>
+          <img src="{{site.baseurl | append: '/'}}images/platforms/android.svg" alt="Android">
+        </li>
+        {% endif %}
+        {% if game.appstore %}
+        <li>
+          <img src="{{site.baseurl | append: '/'}}images/platforms/apple.svg" alt="iOS">
+        </li>
+        {% endif %}
+        {% if game.steamstore %}
+        <li>
+          <img src="{{site.baseurl | append: '/'}}images/platforms/steam.svg" alt="Steam">
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+  </li>
+  {% endfor %}
+</ul>

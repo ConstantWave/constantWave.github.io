@@ -1,34 +1,33 @@
 ---
 layout: home
-title: "Bienvenidos a Constant Wave"
-image: images/wave.jpg
+title: Bienvenidos a Constant Wave
+hero: Transformamos ideas innovadoras en experiencias de juego cautivadoras.
+subtitle: Fundada en 2024, nos centramos en una jugabilidad precisa, un diseño limpio y experiencias memorables que van más allá de lo esperado.
+games_cta: "Explora nuestros juegos"
 permalink: /
 lang: es
 page_id: index
 ---
 
-En Constant Wave, transformamos ideas innovadoras en experiencias de juego cautivadoras. Fundada en 2024, nuestra empresa surge como una fuerza creativa en la industria del desarrollo de videojuegos, especializándose en títulos móviles y multiplataforma que desafían los límites de lo convencional.
+### Próximos lanzamientos
 
-{% include wordbusters_banner.html %}
+Estos son los juegos que estamos construyendo ahora: más grandes, más ambiciosos y con todo lo que hemos aprendido hasta hoy. Nuevos mundos, más personalidad y el mismo foco en la jugabilidad divertida.
 
-## Nuestra Visión
+{% assign games = site.games | where: "status", "coming-soon" | sort: 'order' | reversed %}
+{% include game-cards.html %}
 
-Creemos que cada ola tecnológica trae nuevas oportunidades para crear experiencias únicas. Surfeamos la cresta de la innovación, combinando creatividad y excelencia técnica para desarrollar juegos que no solo entretienen, sino que también inspiran.
+### Ya disponibles
 
-## Lo Que Hacemos
+Antes de dar el salto a mundos más grandes, hicimos un par de juegos pequeños para explorar ideas, mecánicas y plataformas. Simples, divertidos y directos al grano.
 
-- Juegos móviles inmersivos que caben en tu bolsillo
-- Rompiendo barreras con experiencias multiplataforma
-- Desafiando las convenciones de género con títulos innovadores
-- Aprovechando las últimas tecnologías para soluciones de juego
+{% assign games = site.games | where: "status", "published" | sort: 'order' | reversed %}
+{% include game-cards.html %}
 
-## Nuestro Compromiso
+### Más allá de los juegos
 
-En Constant Wave, estamos comprometidos a:
+También colaboramos en proyectos de investigación que aplican tecnología interactiva y realidad mixta más allá del entretenimiento.
 
-- Desarrollar juegos que cautiven y entretengan
-- Mantener los más altos estándares de calidad
-- Crear experiencias accesibles para jugadores de todos los niveles
-- Innovar constantemente en el mundo del desarrollo de videojuegos
+{% assign researches = site.researches | sort: 'order' | reversed %}
+{% include research-collaborators.html %}
 
-Únete a nosotros en esta emocionante aventura mientras redefinimos el futuro del juego.
+[Más sobre nuestras colaboraciones en investigación →](/researches)

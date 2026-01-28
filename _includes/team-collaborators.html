@@ -1,0 +1,30 @@
+<ul class="team-collaborators">
+  {% assign collaborators = site.team_collaborators | sort: "order" %}
+  {% for collaborator in collaborators %}
+  <li>
+    <img src="{{ collaborator.image }}" alt="{{ collaborator.name }}" width="256" height="256">
+    <dl>
+      <dt>{{ collaborator.name }}</dt>
+      <dd>{{ collaborator.role }}</dd>
+    </dl>
+      {{ collaborator.content }}
+    <div class="team-collaborator-links">
+      {% if collaborator.web %}
+      <a href="{{ collaborator.web }}" target="_blank" title="Web">
+        <img src="{{site.baseurl | append: '/'}}images/web.svg" alt="Web" width="24" height="24">
+      </a>
+      {% endif %}
+      {% if collaborator.twitter %}
+      <a href="{{ collaborator.twitter }}" target="_blank" title="Twitter">
+        <img src="{{site.baseurl | append: '/'}}images/twitter.svg" alt="Twitter" width="24" height="24">
+      </a>
+      {% endif %}
+      {% if collaborator.youtube %}
+      <a href="{{ collaborator.youtube }}" target="_blank" title="YouTube">
+        <img src="{{site.baseurl | append: '/'}}images/youtube.svg" alt="YouTube" width="24" height="24">
+      </a>
+      {% endif %}
+    </div>
+  </li>
+  {% endfor %}
+</ul>

@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 /**
  * Reset some basic elements
  */
@@ -7,8 +13,6 @@ dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
 }
-
-
 
 /**
  * Basic styling
@@ -37,7 +41,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit;
+  margin-bottom: 16px;
 }
 
 
@@ -54,10 +58,10 @@ main {
 /**
  * Images
  */
-img {
-  max-width: 100%;
-  vertical-align: middle;
-}
+// img {
+//   max-width: 100%;
+//   vertical-align: middle;
+// }
 
 
 
@@ -103,11 +107,11 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $text-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($text-color, 15%);
   }
 
   &:hover {

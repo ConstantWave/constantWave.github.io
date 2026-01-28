@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Términos y Condiciones
+subtitle: Las reglas para usar nuestro sitio web y nuestros juegos.
+description: "Aquí encontrarás los términos que aplican al usar nuestro sitio, servicios y juegos. Nada complicado: solo lo necesario para que todo sea claro y justo para todos."
 permalink: /terms-and-conditions/
 lang: es
 page_id: terms-and-conditions

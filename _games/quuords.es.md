@@ -3,8 +3,17 @@ layout: game
 permalink: /games/quuords
 name: Quuords
 order: 20
-image: /images/quuords.png
-banner: /images/quuords.png
+status: published
+card: /images/quuords/quuords-card.png
+icon: /images/quuords/quuords-icon@256.png
+banner: /images/quuords/quuords-banner.png
+subtitle: A competitive word-search game with solo and versus modes.
+description: "Una búsqueda de palabras rápida donde la velocidad es tan importante como el vocabulario."
+screenshots:
+  mobile_portrait:
+    - /images/quuords/es/00_home.png
+    - /images/quuords/es/01_level.png
+    - /images/quuords/es/02_match.png
 appstore: https://apps.apple.com/us/app/quuords/id6737609238
 email: info@constantwave.tech
 lang: es

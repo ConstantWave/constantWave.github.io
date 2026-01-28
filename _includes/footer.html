@@ -33,8 +33,9 @@
     </a>
   </div>
   <div class="footer-links">
-    <a href="/privacy-policy">{{ site.data[site.active_lang].l10n.footer.links.privacy_policy }}</a>•<a
-      href="/terms-and-conditions">{{ site.data[site.active_lang].l10n.footer.links.terms_of_service }}</a>
+    {{% assign links = site.data[site.active_lang].l10n.footer.links }}
+    <a href="/privacy-policy">{{ links.privacy_policy }}</a>•<a
+      href="/terms-and-conditions">{{ links.terms_of_service }}</a>
   </div>
 
   <p>{{ site.data[site.active_lang].l10n.footer.copyright }}</p>

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Terms and Conditions
+subtitle: The rules of the road for using our website and games.
+description: Here you’ll find the terms that apply when using our website, services, and games. Nothing fancy — just the standard stuff to keep everything clear and fair for everyone.
 permalink: /terms-and-conditions/
 lang: en
 page_id: terms-and-conditions

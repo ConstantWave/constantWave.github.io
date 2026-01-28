@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Política de Privacidad
+subtitle: Tus datos importan. Mantenemos todo simple y transparente.
+description: En esta página explicamos qué datos personales recopilamos, por qué los recopilamos y cómo los utilizamos. Solo reunimos lo estrictamente necesario y nunca hacemos nada extraño con tu información.
 permalink: /privacy-policy/
 lang: es
 page_id: privacy-policy

@@ -3,8 +3,20 @@ layout: game
 permalink: /games/wordbusters
 name: Cazapalabras
 order: 10
-image: /images/wordbusters.png
-banner: /images/wordbusters-banner.png
+status: published
+card: /images/wordbusters/wordbusters-card.png
+icon: /images/wordbusters/wordbusters-icon@256.png
+banner: /images/wordbusters/wordbusters-banner.png
+subtitle: Un juego que combina autodefinidos y sopas de letras con desafíos diarios.
+description: "Rompecabezas de palabras rápidos, ideales para partidas cortas y mentes ágiles."
+screenshots:
+  mobile_portrait:
+    - /images/wordbusters/es/00_home.png
+    - /images/wordbusters/es/01_categories.png
+    - /images/wordbusters/es/02_levels.png
+    - /images/wordbusters/es/03_solo.png
+    - /images/wordbusters/es/04_versus.png
+    - /images/wordbusters/es/05_challenge.png
 googleplay: https://play.google.com/store/apps/details?id=tech.constantwave.wordbusters
 appstore: https://apps.apple.com/us/app/wordbusters/id6737838684
 email: info@constantwave.tech

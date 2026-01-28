@@ -1,6 +1,6 @@
 ---
 name: Enrique
-image: /images/enrique.jpg
+image: /images/team/enrique.jpg
 email: enrique@constantwave.tech
 lang: es
 page_id: enrique
