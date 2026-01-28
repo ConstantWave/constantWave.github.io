@@ -1,7 +1,7 @@
 ---
 layout: game
 permalink: /games/abduction
-name: "The Abduction of Oscar Z: Modern Edition"
+name: "The Abduction of Oscar Z"
 order: 5
 featured: Para este trimestre
 status: coming-soon
