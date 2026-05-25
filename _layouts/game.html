@@ -51,6 +51,18 @@ layout: default
     {% endif %}
   </ul>
 
+  {% if page.soundcloud %}
+  <h4>{{ l10n.soundcloud }}</h4>
+
+  <ul class="game-links">
+    <li>
+      <a href="{{ page.soundcloud }}" target="_blank" rel="noopener noreferrer" title="SoundCloud">
+        <img src="{{ site.baseurl | append: '/' }}images/soundcloud.svg" alt="SoundCloud" width="24" height="24">
+      </a>
+    </li>
+  </ul>
+  {% endif %}
+
   <h3>{{ l10n.more_games }}</h3>
 
   {% assign games = site.games | where_exp: "game", "game.page_id != page.page_id" | sort: 'order' | reversed %}

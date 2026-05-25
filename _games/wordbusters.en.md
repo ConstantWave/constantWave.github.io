@@ -19,6 +19,7 @@ screenshots:
     - /images/wordbusters/en/05_challenge.png
 googleplay: https://play.google.com/store/apps/details?id=tech.constantwave.wordbusters
 appstore: https://apps.apple.com/us/app/wordbusters/id6737838684
+soundcloud: https://soundcloud.com/tulinmola/sets/wordbusters
 email: info@constantwave.tech
 lang: en
 page_id: wordbusters

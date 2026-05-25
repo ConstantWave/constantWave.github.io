@@ -185,6 +185,19 @@ a[disabled] {
   list-style: none;
   margin: 0;
   padding: 0;
+
+  a {
+    display: block;
+    line-height: 0;
+    text-decoration: none;
+    margin: 0!important;
+  }
+
+  img {
+    height: 22px;
+    width: auto;
+    vertical-align: middle;
+  }
 }
 
 .game-cards {
@@ -526,6 +539,26 @@ a[disabled] {
 
 .game-content {
   margin-bottom: 32px;
+}
+
+.game-links {
+  display: flex;
+  gap: 16px;
+  list-style: none;
+  margin: 0 0 64px;
+  padding: 0;
+
+  a {
+    display: block;
+    line-height: 0;
+    text-decoration: none;
+  }
+
+  img {
+    height: 24px;
+    width: auto;
+    vertical-align: middle;
+  }
 }
 
 .stores {
