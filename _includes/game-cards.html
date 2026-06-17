@@ -20,7 +20,13 @@
         {% endif %}
         {% if game.steamstore %}
         <li>
+          {% if game.steamstore == "#" %}
           <img src="{{site.baseurl | append: '/'}}images/platforms/steam.svg" alt="Steam">
+          {% else %}
+          <a href="{{ game.steamstore }}" target="_blank" rel="noopener noreferrer" title="Steam">
+            <img src="{{site.baseurl | append: '/'}}images/platforms/steam.svg" alt="Steam">
+          </a>
+          {% endif %}
         </li>
         {% endif %}
         {% if game.soundcloud %}

@@ -49,6 +49,13 @@ layout: default
       </a>
     </li>
     {% endif %}
+    {% if page.steamstore %}
+    <li>
+      <a href="{{ page.steamstore }}" {% if page.steamstore=="#" %}disabled aria-disabled="true" {% else %}target="_blank" rel="noopener noreferrer"{% endif %}>
+        <img src="{{site.baseurl | append: '/'}}images/steam.svg" alt="Get {{ page.name }} on Steam">
+      </a>
+    </li>
+    {% endif %}
   </ul>
 
   {% if page.soundcloud %}

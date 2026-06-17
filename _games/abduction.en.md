@@ -20,7 +20,7 @@ screenshots:
     - /images/abduction/04_rainy.png
 googleplay: "#"
 appstore: "#"
-steamstore: "#"
+steamstore: https://store.steampowered.com/app/4446340/The_Abduction_of_Oscar_Z/
 email: info@constantwave.tech
 lang: en
 page_id: abduction
