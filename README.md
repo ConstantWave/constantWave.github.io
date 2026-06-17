@@ -4,9 +4,18 @@ This is the repository for the Constant Wave web page. The site is built using J
 
 ## Installation
 
-Dependencies: 
+Dependencies:
 
-- Ruby **3.x** (take into account that Ruby installed by default in OSX systems can be outdated). For homebrew installation, run `brew install ruby` and dont't forget `export PATH="/opt/homebrew/opt/ruby/bin:$PATH"` or `echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc` to add to bash.
+- Ruby **3.3+** (Ruby 4 works). The `github-pages` gem does not support Ruby 4, so this project uses Jekyll directly.
+- [Bundler](https://bundler.io/) (`gem install bundler`)
+
+If Homebrew Ruby is installed, make sure its `bin` directory is on your `PATH` before the system Ruby:
+
+```sh
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+```
+
+If you still have Ruby 2.6 from macOS and `bundle install` fails, install a current Ruby (for example `brew install ruby@3.3`) and use that version.
 
 To set up the project locally:
 

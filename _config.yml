@@ -51,6 +51,8 @@ collections:
 
 # Build settings
 theme: minima
+sass:
+  sourcemap: never
 plugins:
   - jekyll-feed
   - jekyll-polyglot
