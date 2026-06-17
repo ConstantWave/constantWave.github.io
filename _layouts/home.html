@@ -11,6 +11,12 @@ layout: default
         <div class="featured-game">
           <h3>{{ featured_game.featured }}</h3>
           <a href="{{ featured_game.url }}">{{ featured_game.name }}</a>
+          {% if featured_game.status == "coming-soon" and featured_game.steamstore and featured_game.steamstore != "#" %}
+          <a class="wishlist-steam" href="{{ featured_game.steamstore }}" target="_blank" rel="noopener noreferrer">
+            <img src="{{ site.baseurl | append: '/' }}images/platforms/steam.svg" alt="" aria-hidden="true">
+            Wishlist on Steam
+          </a>
+          {% endif %}
           <span>{{ featured_game.style }}</span>
         </div>
         {% endif %}
