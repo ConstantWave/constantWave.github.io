@@ -598,6 +598,10 @@ a[disabled] {
   list-style: none;
   margin: 0 0 64px;
 
+  @include media-query($on-palm) {
+    flex-direction: column;
+  }
+
   img {
     width: 140px;
     height: auto;
